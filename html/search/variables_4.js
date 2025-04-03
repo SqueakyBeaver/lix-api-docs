@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['daemonnixversion_0',['daemonNixVersion',['../structnix_1_1RemoteStore_1_1Connection.html#ac1436e867865bf5b875a052680fa80e1',1,'nix::RemoteStore::Connection']]],
+  ['daemonsocket_1',['daemonSocket',['../structnix_1_1LocalDerivationGoal.html#a5011291a3130f13f46accac5f89b247a',1,'nix::LocalDerivationGoal']]],
+  ['daemonthread_2',['daemonThread',['../structnix_1_1LocalDerivationGoal.html#a0fc58de78feea32b3147949f3a0460f0',1,'nix::LocalDerivationGoal']]],
+  ['daemonversion_3',['daemonVersion',['../structnix_1_1RemoteStore_1_1Connection.html#a3645c3993cef92a51d718f5f9c65e8ac',1,'nix::RemoteStore::Connection']]],
+  ['daemonworkerthreads_4',['daemonWorkerThreads',['../structnix_1_1LocalDerivationGoal.html#a23e791e433f46d9950f6c3b4d34dd705',1,'nix::LocalDerivationGoal']]],
+  ['def_5',['def',['../structnix_1_1ExprSelect.html#aef0bc29f53d82576e5a313e99fe603a4',1,'nix::ExprSelect']]],
+  ['defaultversion_6',['defaultVersion',['../structnix_1_1ServeProtoTest.html#abf010a89d88287cea9ba0054f139f294',1,'nix::ServeProtoTest::defaultVersion'],['../structnix_1_1WorkerProtoTest.html#a116f2fce7329c70ad7273c263e173c58',1,'nix::WorkerProtoTest::defaultVersion']]],
+  ['deferred_7',['deferred',['../structnix_1_1DerivationType_1_1InputAddressed.html#a5670a290f3737f74925a1b3f0172f6e5',1,'nix::DerivationType::InputAddressed']]],
+  ['deleteafter_8',['deleteAfter',['../structnix_1_1CopyFileFlags.html#a99c315cec5abc62769809defe4013a15',1,'nix::CopyFileFlags']]],
+  ['dependentrealisations_9',['dependentRealisations',['../structnix_1_1Realisation.html#aa78398998f484dfac47e64825d750f67',1,'nix::Realisation']]],
+  ['derivationpaths_10',['derivationPaths',['../structnix_1_1PrintOptions.html#a1079ed41268c670aeba86ece7accf235',1,'nix::PrintOptions']]],
+  ['derivationtype_11',['derivationType',['../structnix_1_1DerivationGoal.html#a6055884bb9e5ab556a7b413ce7fa6cd1',1,'nix::DerivationGoal']]],
+  ['destpath_12',['destPath',['../structnix_1_1PathSubstitutionGoal.html#abd8647d45b837a1d7b94e8db547ea198',1,'nix::PathSubstitutionGoal']]],
+  ['distance_13',['distance',['../classnix_1_1Suggestion.html#a7fe3df13204e1796dca521fc0d1a211e',1,'nix::Suggestion']]],
+  ['doc_14',['doc',['../structnix_1_1PrimOp.html#af69d622827a53fca4bc1a34e819607ef',1,'nix::PrimOp::doc'],['../structnix_1_1Constant.html#a22865fb2e3cb76c5903e9a067609a239',1,'nix::Constant::doc'],['../structnix_1_1EvalBuiltins_1_1Doc.html#a166ff2c82ca37d04376143848450ccd9',1,'nix::EvalBuiltins::Doc::doc']]],
+  ['downloadsize_15',['downloadSize',['../structnix_1_1SubstitutablePathInfo.html#adeaaf7879cdbd106c9754d205c7d5289',1,'nix::SubstitutablePathInfo']]],
+  ['drv_16',['drv',['../structnix_1_1DerivationGoal.html#a0cf6cc77ded09e4415e2855e19c55fa1',1,'nix::DerivationGoal']]],
+  ['drvextension_17',['drvExtension',['../path_8hh.html#ae021c57a190877623bb3f454e27a26a9',1,'nix']]],
+  ['drvhash_18',['drvHash',['../structnix_1_1DrvOutput.html#ae15f26c50d40bf6a83947fd04ed87ea7',1,'nix::DrvOutput']]],
+  ['drvpath_19',['drvPath',['../structnix_1_1DerivationGoal.html#affca57ddb08dbbba466f1deb65c532e1',1,'nix::DerivationGoal']]]
+];

@@ -1,0 +1,12 @@
+<map id="nix::ProfileElementSource" name="nix::ProfileElementSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,208,303,235"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1FlakeRef.html" title=" " alt="" coords="54,98,161,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,141,112,162,121,182,136,195,153,205,151,209,133,199,117,185,107,164,104,142"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1fetchers_1_1Input.html" title=" " alt="" coords="5,5,149,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,48,81,73,96,96,92,99,76,75,72,49"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,5,234,33"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="208,49,211,207,206,207,203,49"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="168,43,148,59,131,79,117,99,113,96,126,76,145,55,165,39"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1ExtendedOutputsSpec.html" title=" " alt="" coords="288,98,480,126"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="351,137,231,210,229,205,348,132"/>
+</map>

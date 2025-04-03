@@ -1,0 +1,11 @@
+<map id="nix::LogStore" name="nix::LogStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,83,496,111"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Store.html" title=" " alt="" coords="257,83,340,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,94,389,94,389,100,356,100"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,5,166,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,53,234,72,257,80,256,85,232,77,175,58"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Sync.html" title=" " alt="" coords="5,75,172,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,94,256,94,256,100,187,100"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1Store_1_1Stats.html" title=" " alt="" coords="21,144,156,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,137,232,117,255,109,257,114,234,122,172,142"/>
+</map>

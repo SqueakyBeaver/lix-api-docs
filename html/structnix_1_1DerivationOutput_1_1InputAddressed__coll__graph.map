@@ -1,0 +1,6 @@
+<map id="nix::DerivationOutput::InputAddressed" name="nix::DerivationOutput::InputAddressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,167,143"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1StorePath.html" title=" " alt="" coords="30,5,142,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,48,89,97,83,97,83,48"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="159,11,168,19,160,27,143,30,142,25,158,23,163,19,156,15"/>
+</map>

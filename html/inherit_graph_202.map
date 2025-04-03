@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structnix_1_1Goal.html" title=" " alt="" coords="5,57,85,85"/>
+<area shape="rect" id="Node000001" href="$structnix_1_1DerivationGoal.html" title=" " alt="" coords="171,5,318,33"/>
+<area shape="poly" id="edge336_Node000000_Node000001" title=" " alt="" coords="99,52,132,43,181,31,182,36,133,48,100,58"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1DrvOutputSubstitutionGoal.html" title=" " alt="" coords="133,57,357,85"/>
+<area shape="poly" id="edge338_Node000000_Node000003" title=" " alt="" coords="100,68,132,68,132,74,100,74"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1PathSubstitutionGoal.html" title=" " alt="" coords="152,109,338,137"/>
+<area shape="poly" id="edge339_Node000000_Node000004" title=" " alt="" coords="100,85,133,94,182,106,181,111,132,99,99,90"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1LocalDerivationGoal.html" title=" " alt="" coords="405,5,586,33"/>
+<area shape="poly" id="edge337_Node000001_Node000002" title=" " alt="" coords="334,16,404,16,404,22,334,22"/>
+</map>

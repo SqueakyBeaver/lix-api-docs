@@ -1,0 +1,15 @@
+<map id="nix::AsyncInputStream" name="nix::AsyncInputStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,125,344,153"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AsyncFdInputStream.html" title=" " alt="" coords="406,5,590,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,113,333,76,391,42,421,31,423,36,393,47,336,80,290,117"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1AsyncGeneratorInputStream.html" title=" " alt="" coords="405,57,591,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="332,119,406,100,407,105,333,124"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1AsyncSourceInputStream.html" title=" " alt="" coords="392,125,604,153"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="359,136,391,136,391,142,359,142"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1AsyncStringInputStream.html" title=" " alt="" coords="395,177,601,205"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="342,154,432,174,431,179,341,160"/>
+<area shape="rect" id="Node000007" href="$classnix_1_1AsyncTeeInputStream.html" title=" " alt="" coords="403,229,593,257"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="295,160,341,188,393,214,429,226,427,231,391,219,338,192,292,164"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,125,128,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,136,175,136,175,142,143,142"/>
+</map>

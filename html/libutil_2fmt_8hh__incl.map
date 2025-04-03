@@ -1,0 +1,11 @@
+<map id="lix/libutil/fmt.hh" name="lix/libutil/fmt.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,5,261,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,85,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,36,87,76,85,72,170,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,81,168,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,35,161,70,157,67,186,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,81,325,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,32,240,67,236,70,207,35"/>
+<area shape="rect" id="Node000005" href="$ansicolor_8hh.html" title="Some ANSI escape sequences." alt="" coords="349,81,509,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,31,374,73,372,78,239,36"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::SSHMaster::Connection" name="nix::SSHMaster::Connection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,207,143"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Pid.html" title=" " alt="" coords="9,5,78,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,45,101,114,96,116,56,48"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AutoCloseFD.html" title=" " alt="" coords="102,5,235,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,48,138,92,120,116,116,113,133,90,155,46"/>
+</map>

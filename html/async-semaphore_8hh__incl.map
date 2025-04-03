@@ -1,0 +1,19 @@
+<map id="lix/libutil/async&#45;semaphore.hh" name="lix/libutil/async&#45;semaphore.hh">
+<area shape="rect" id="Node000001" title="A semaphore implementation usable from within a KJ event loop." alt="" coords="344,5,562,33"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,74,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,36,233,56,89,83,88,78,232,50,355,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,81,184,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="397,36,200,82,199,77,396,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="209,81,315,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,36,311,78,309,73,418,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="339,81,452,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="445,35,417,70,413,67,440,32"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="477,81,546,109"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="465,32,494,67,490,70,461,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="570,81,720,109"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="488,31,597,73,596,78,486,36"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="744,81,820,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="516,31,729,78,728,83,515,36"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="845,81,919,109"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="551,31,680,51,831,78,830,83,679,56,550,36"/>
+</map>

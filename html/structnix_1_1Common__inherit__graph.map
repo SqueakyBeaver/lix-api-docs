@@ -1,0 +1,33 @@
+<map id="nix::Common" name="nix::Common">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,535,212,563"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1CmdDevelop.html" title=" " alt="" coords="5,611,139,638"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="132,575,89,612,85,608,129,571"/>
+<area shape="rect" id="Node000013" href="$structnix_1_1CmdPrintDevEnv.html" title=" " alt="" coords="163,611,322,638"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="186,571,229,608,226,612,183,575"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1InstallableCommand.html" title=" " alt="" coords="130,459,315,487"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,500,171,536,167,533,199,497"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="264,5,342,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,45,254,69,232,99,215,133,208,169,208,323,214,400,223,458,217,459,208,400,203,323,203,169,210,131,227,96,250,66,273,42"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1SourceExprCommand.html" title=" " alt="" coords="264,384,453,411"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="358,29,409,48,434,62,456,79,476,100,490,119,497,141,499,169,499,248,495,272,486,294,457,333,420,364,386,385,383,381,417,360,453,330,482,292,490,270,493,247,493,169,491,142,485,121,472,103,453,83,431,66,406,52,356,34"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1MixFlakeOptions.html" title=" " alt="" coords="280,308,438,336"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="358,32,393,50,409,63,422,79,429,87,438,91,447,95,454,105,456,123,450,152,412,261,395,288,376,310,372,306,391,285,407,259,445,151,450,123,449,107,444,99,436,95,426,91,418,83,406,67,391,55,355,37"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1Command.html" title=" " alt="" coords="43,81,160,109"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="254,41,138,83,136,78,252,36"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1MixEvalArgs.html" title=" " alt="" coords="260,157,390,184"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="291,48,282,77,281,93,284,108,297,134,314,154,310,158,293,137,279,110,276,93,277,76,286,46"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1MixRepair.html" title=" " alt="" coords="293,81,408,109"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="322,45,344,79,340,82,317,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="322,421,248,461,246,457,320,417"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="361,351,361,383,356,383,356,351"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1EvalCommand.html" title=" " alt="" coords="253,232,398,260"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="340,273,355,306,350,309,335,275"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="18,157,168,184"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="150,187,285,229,283,234,149,192"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1MixProfile.html" title=" " alt="" coords="36,308,150,336"/>
+<area shape="poly" id="edge16_Node000011_Node000007" title=" " alt="" coords="96,200,96,307,91,307,91,200"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="101,124,97,157,92,156,96,124"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="328,200,328,232,323,232,323,200"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="344,124,332,157,327,155,339,122"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="97,351,103,414,110,451,121,486,134,512,149,533,144,536,130,514,116,488,105,452,98,415,92,351"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="nix::PathsSettingTestConfig" name="nix::PathsSettingTestConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,269,264,297"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Config.html" title=" " alt="" coords="51,168,141,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,207,159,267,154,270,112,210"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="5,82,150,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,124,96,167,91,168,81,126"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="175,159,316,204"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,218,178,271,174,267,216,215"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="174,82,339,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,126,251,159,246,158,250,125"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1AbstractSetting.html" title=" " alt="" coords="182,5,331,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,48,259,82,254,82,254,48"/>
+</map>

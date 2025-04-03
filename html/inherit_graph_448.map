@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,84,119,112"/>
+<area shape="rect" id="Node000001" href="$classnix_1_1BaseError.html" title=" " alt="" coords="210,5,322,33"/>
+<area shape="poly" id="edge446_Node000000_Node000001" title=" " alt="" coords="100,74,166,43,209,30,211,35,168,48,102,79"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Exit.html" title=" " alt="" coords="229,57,304,85"/>
+<area shape="poly" id="edge447_Node000000_Node000002" title=" " alt="" coords="133,86,228,73,229,79,134,91"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1GCLimitReached.html" title=" " alt="" coords="188,109,345,137"/>
+<area shape="poly" id="edge448_Node000000_Node000003" title=" " alt="" coords="134,104,188,111,187,116,133,109"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1checked_1_1DivideByZero.html" title=" " alt="" coords="167,161,366,189"/>
+<area shape="poly" id="edge449_Node000000_Node000004" title=" " alt="" coords="104,117,168,146,205,158,204,163,166,151,102,122"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::FdSource" name="nix::FdSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,157,134,184"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1BufferedSource.html" title=" " alt="" coords="5,81,154,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,124,82,156,77,156,77,124"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Source.html" title=" " alt="" coords="33,5,126,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,49,82,81,77,81,77,49"/>
+</map>

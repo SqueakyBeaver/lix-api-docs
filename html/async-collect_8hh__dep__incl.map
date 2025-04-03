@@ -1,0 +1,15 @@
+<map id="lix/libutil/async&#45;collect.hh" name="lix/libutil/async&#45;collect.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,5,274,33"/>
+<area shape="rect" id="Node000002" href="$thread-pool_8hh.html" title=" " alt="" coords="117,81,242,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,49,182,80,177,80,177,49"/>
+<area shape="rect" id="Node000003" href="$remote-store_8hh.html" title=" " alt="" coords="109,174,250,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,141,182,173,177,173,177,141"/>
+<area shape="rect" id="Node000004" href="$remote-store-connection_8hh.html" title=" " alt="" coords="102,266,257,311"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="182,234,182,266,177,266,177,234"/>
+<area shape="rect" id="Node000005" href="$uds-remote-store_8hh.html" title=" " alt="" coords="5,359,175,404"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="126,230,107,247,92,268,85,290,83,315,87,358,82,359,77,315,80,289,88,265,103,243,122,226"/>
+<area shape="rect" id="Node000006" href="$nix_2daemon_8cc.html" title=" " alt="" coords="212,368,349,395"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="234,225,255,243,271,265,281,292,286,320,285,367,280,367,281,321,276,293,266,268,251,247,231,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,324,113,361,109,357,146,320"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="216,319,268,365,264,369,213,323"/>
+</map>

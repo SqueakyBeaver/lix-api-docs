@@ -1,0 +1,7 @@
+<map id="nix::ExtraPathInfoValue::Value" name="nix::ExtraPathInfoValue::Value">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,98,195,143"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,44,95,96,91,99,51,47"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1ExtendedOutputsSpec.html" title=" " alt="" coords="88,5,280,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,47,128,99,123,96,163,44"/>
+</map>

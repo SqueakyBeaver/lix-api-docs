@@ -1,0 +1,11 @@
+<map id="lix/libstore/lock.hh" name="lix/libstore/lock.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="198,5,340,33"/>
+<area shape="rect" id="Node000002" href="$derivation-goal_8hh.html" title=" " alt="" coords="23,81,168,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,43,143,83,140,78,226,38"/>
+<area shape="rect" id="Node000004" href="$substitution-goal_8hh.html" title=" " alt="" coords="191,81,346,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,49,272,80,266,80,266,49"/>
+<area shape="rect" id="Node000005" href="$worker_8hh.html" title=" " alt="" coords="371,81,497,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="310,38,391,78,389,83,308,43"/>
+<area shape="rect" id="Node000003" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="5,174,186,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,141,98,173,93,173,93,141"/>
+</map>

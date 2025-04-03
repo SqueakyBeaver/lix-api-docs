@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classnix_1_1GoalFactory.html" title=" " alt="" coords="5,5,132,33"/>
+<area shape="rect" id="Node000001" href="$classnix_1_1WorkerBase.html" title=" " alt="" coords="180,5,306,33"/>
+<area shape="poly" id="edge340_Node000000_Node000001" title=" " alt="" coords="147,16,179,16,179,22,147,22"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Worker.html" title=" " alt="" coords="354,5,448,33"/>
+<area shape="poly" id="edge341_Node000001_Node000002" title=" " alt="" coords="322,16,354,16,354,22,322,22"/>
+</map>

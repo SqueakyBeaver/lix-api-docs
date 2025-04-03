@@ -1,0 +1,13 @@
+<map id="lix/libutil/processes.hh" name="lix/libutil/processes.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,5,431,33"/>
+<area shape="rect" id="Node000002" href="$shared_8hh.html" title=" " alt="" coords="5,90,164,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,41,127,91,126,86,290,36"/>
+<area shape="rect" id="Node000004" href="$hook-instance_8hh.html" title=" " alt="" coords="188,81,325,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,46,282,82,279,78,320,42"/>
+<area shape="rect" id="Node000005" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="349,81,529,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="375,42,416,78,413,82,372,46"/>
+<area shape="rect" id="Node000006" href="$ssh_8hh.html" title=" " alt="" coords="554,90,690,117"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="407,35,579,86,577,91,405,40"/>
+<area shape="rect" id="Node000003" href="$nix_2daemon_8cc.html" title=" " alt="" coords="16,174,153,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,133,87,173,82,173,82,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::NarInfoDiskCacheImpl" name="nix::NarInfoDiskCacheImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,115,290,143"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1NarInfoDiskCache.html" title=" " alt="" coords="5,14,172,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,50,181,113,177,117,111,54"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Sync.html" title=" " alt="" coords="196,5,397,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,63,208,117,204,113,261,59"/>
+</map>

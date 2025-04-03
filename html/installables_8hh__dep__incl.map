@@ -1,0 +1,16 @@
+<map id="lix/libcmd/installables.hh" name="lix/libcmd/installables.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5,267,33"/>
+<area shape="rect" id="Node000002" href="$installable-derived-path_8hh.html" title=" " alt="" coords="5,81,163,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,46,110,82,106,78,147,42"/>
+<area shape="rect" id="Node000003" href="$installable-value_8hh.html" title=" " alt="" coords="187,81,344,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,42,243,78,239,82,199,46"/>
+<area shape="rect" id="Node000004" href="$command_8hh.html" title=" " alt="" coords="178,182,352,210"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,141,268,182,263,182,263,141"/>
+<area shape="rect" id="Node000005" href="$installable-attr-path_8hh.html" title=" " alt="" coords="63,266,220,311"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="209,137,187,154,169,175,157,197,150,222,144,266,139,265,145,221,153,195,164,172,184,150,206,132"/>
+<area shape="rect" id="Node000007" href="$installable-flake_8hh.html" title=" " alt="" coords="376,174,533,218"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="325,130,411,171,409,176,323,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,221,173,268,169,264,234,217"/>
+<area shape="rect" id="Node000006" href="$nix_2daemon_8cc.html" title=" " alt="" coords="244,275,380,302"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="281,222,308,273,303,276,277,225"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="nix::daemon::TunnelLogger" name="nix::daemon::TunnelLogger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,269,268,297"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Logger.html" title=" " alt="" coords="5,168,99,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,203,156,267,152,271,77,207"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1FdSink.html" title=" " alt="" coords="123,168,216,196"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,211,172,269,167,269,167,211"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1BufferedSink.html" title=" " alt="" coords="103,82,236,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,125,172,167,167,167,167,125"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1Sink.html" title=" " alt="" coords="131,5,208,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,48,172,82,167,82,167,48"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1Sync.html" title=" " alt="" coords="240,159,416,204"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="282,215,192,271,189,266,279,210"/>
+</map>

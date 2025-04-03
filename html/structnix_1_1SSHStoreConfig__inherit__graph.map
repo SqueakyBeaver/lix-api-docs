@@ -1,0 +1,14 @@
+<map id="nix::SSHStoreConfig" name="nix::SSHStoreConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,308,276,336"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1RemoteStoreConfig.html" title=" " alt="" coords="5,232,181,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,267,183,305,180,310,123,271"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1StoreConfig.html" title=" " alt="" coords="139,157,263,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,196,114,234,111,230,168,191"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1CommonSSHStoreConfig.html" title=" " alt="" coords="204,232,414,260"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="234,191,291,230,288,234,231,196"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Config.html" title=" " alt="" coords="156,81,246,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,124,204,156,198,156,198,124"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="129,5,273,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,49,204,81,198,81,198,49"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="279,271,222,310,219,305,276,267"/>
+</map>

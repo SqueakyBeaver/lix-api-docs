@@ -1,0 +1,7 @@
+<map id="nix::ProgressBar" name="nix::ProgressBar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,115,196,143"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Logger.html" title=" " alt="" coords="5,14,99,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,52,124,113,120,117,70,55"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Sync.html" title=" " alt="" coords="122,5,302,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,64,144,117,140,113,183,61"/>
+</map>

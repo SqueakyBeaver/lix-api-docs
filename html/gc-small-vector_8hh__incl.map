@@ -1,0 +1,39 @@
+<map id="lix/libexpr/gc&#45;small&#45;vector.hh" name="lix/libexpr/gc&#45;small&#45;vector.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,5,501,50"/>
+<area shape="rect" id="Node000002" href="$gc-alloc_8hh_source.html" title=" " alt="" coords="306,106,398,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,52,375,96,371,93,408,49"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="423,98,585,143"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="448,49,478,85,474,88,444,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,199,75,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,134,206,158,89,193,83,195,81,190,87,188,204,153,305,129"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,199,165,227"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="318,137,178,193,175,195,172,190,176,188,316,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="189,199,230,227"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="332,137,243,193,240,188,329,132"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="254,199,304,227"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="344,136,301,189,297,185,339,133"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="328,199,376,227"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="355,135,355,184,349,184,349,135"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="400,199,496,227"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="368,133,425,187,421,190,364,137"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="521,199,583,227"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="383,132,509,188,513,190,511,195,507,193,381,137"/>
+<area shape="rect" id="Node000010" href="$checked-arithmetic_8hh_source.html" title=" " alt="" coords="607,191,742,235"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="387,132,411,140,500,165,592,187,591,193,499,170,410,145,386,137"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="766,199,831,227"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="385,132,411,140,507,157,584,161,660,167,704,175,755,188,762,190,760,195,754,193,703,180,659,172,583,166,507,162,410,145,384,137"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="322,283,400,311"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="607,235,595,238,416,284,415,279,594,233,606,230"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="424,283,504,311"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="620,238,513,280,511,275,618,233"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="528,283,613,311"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="649,238,601,276,597,271,646,234"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="637,283,712,311"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="677,236,677,268,672,268,672,236"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="736,283,794,311"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="700,234,741,271,738,274,697,238"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="819,283,893,311"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="724,234,814,274,812,279,722,238"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="917,283,1008,311"/>
+<area shape="poly" id="edge16_Node000010_Node000017" title=" " alt="" coords="744,231,903,276,901,281,742,236"/>
+</map>

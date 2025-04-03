@@ -1,0 +1,12 @@
+<map id="nix::daemon::TunnelSource" name="nix::daemon::TunnelSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="44,175,241,203"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1BufferedSource.html" title=" " alt="" coords="68,82,217,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,125,145,175,140,175,140,125"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Source.html" title=" " alt="" coords="5,5,99,33"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="35,46,21,78,19,94,23,109,39,130,60,147,105,172,102,177,57,152,35,134,19,111,14,94,16,76,30,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,41,129,80,125,84,78,45"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1BufferedSink.html" title=" " alt="" coords="240,82,373,110"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="271,120,168,177,165,172,268,115"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1Sink.html" title=" " alt="" coords="268,5,345,33"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="309,48,309,82,304,82,304,48"/>
+</map>

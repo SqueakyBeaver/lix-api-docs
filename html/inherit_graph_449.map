@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,189,123,217"/>
+<area shape="rect" id="Node000001" href="$structnix_1_1charptr__cast__detail_1_1RecursionHelper.html" title=" " alt="" coords="171,14,363,110"/>
+<area shape="poly" id="edge450_Node000000_Node000001" title=" " alt="" coords="93,177,169,120,186,108,189,112,172,124,96,181"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1charptr__cast__detail_1_1RecursionHelper.html" title=" " alt="" coords="173,134,361,195"/>
+<area shape="poly" id="edge452_Node000000_Node000003" title=" " alt="" coords="138,186,172,180,173,185,139,192"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1json_1_1avoids__null_3_01std_1_1nullptr__t_01_4.html" title=" " alt="" coords="188,219,346,264"/>
+<area shape="poly" id="edge453_Node000000_Node000004" title=" " alt="" coords="139,214,188,224,187,229,138,220"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1json_1_1is__integral__enum.html" title=" " alt="" coords="191,289,343,333"/>
+<area shape="poly" id="edge454_Node000000_Node000005" title=" " alt="" coords="96,224,132,250,172,274,197,286,195,290,169,279,129,254,93,229"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1charptr__cast__detail_1_1RecursionHelper_3_01From_00_01To_00_01std_1_1enable__if__t40624b81bb334dff6fe3df9e43dcb989.html" title=" " alt="" coords="411,5,681,118"/>
+<area shape="poly" id="edge451_Node000001_Node000002" title=" " alt="" coords="379,59,410,59,410,64,379,64"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nix::FSAccessor" name="nix::FSAccessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,5,332,33"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1LocalStoreAccessor.html" title=" " alt="" coords="5,81,181,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,42,125,83,123,78,223,37"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1NarAccessor.html" title=" " alt="" coords="205,81,336,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,49,273,81,268,81,268,49"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1RemoteFSAccessor.html" title=" " alt="" coords="359,81,534,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,37,416,78,414,83,315,42"/>
+</map>

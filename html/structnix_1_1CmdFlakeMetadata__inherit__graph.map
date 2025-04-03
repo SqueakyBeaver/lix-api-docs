@@ -1,0 +1,28 @@
+<map id="nix::CmdFlakeMetadata" name="nix::CmdFlakeMetadata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,459,290,487"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1CmdFlakeInfo.html" title=" " alt="" coords="132,535,271,563"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="204,503,204,535,199,535,199,503"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1FlakeCommand.html" title=" " alt="" coords="68,384,220,411"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,422,193,457,189,461,161,425"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="161,5,239,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,38,101,58,56,86,37,103,22,123,12,145,8,169,8,247,11,271,20,292,48,330,85,360,119,381,117,386,82,364,45,334,15,294,6,272,3,248,3,169,6,143,17,120,33,99,53,81,99,53,145,34"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1MixFlakeOptions.html" title=" " alt="" coords="65,308,223,336"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="147,36,111,54,96,67,84,82,62,128,58,168,67,210,86,259,104,285,127,306,123,310,100,289,82,261,62,212,53,169,57,127,79,80,92,63,109,50,145,32"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1Command.html" title=" " alt="" coords="94,81,210,109"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="185,48,163,82,158,79,181,45"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1MixEvalArgs.html" title=" " alt="" coords="267,157,397,184"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="222,43,275,107,321,155,317,158,271,110,218,47"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1MixRepair.html" title=" " alt="" coords="285,81,400,109"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="240,38,319,78,316,83,238,43"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1MixJSON.html" title=" " alt="" coords="325,232,430,260"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="255,26,348,46,389,61,414,79,424,99,428,120,427,142,422,164,406,203,389,233,384,231,401,201,417,162,422,141,423,120,419,101,410,83,386,66,347,51,254,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="147,351,147,383,141,383,141,351"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1EvalCommand.html" title=" " alt="" coords="96,232,240,260"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="161,276,151,308,146,307,156,274"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="93,157,243,184"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="171,200,171,232,165,232,165,200"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="161,124,168,156,163,157,156,125"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="290,193,198,234,196,229,288,189"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="341,124,337,157,331,156,336,124"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="360,274,214,460,210,457,356,270"/>
+</map>

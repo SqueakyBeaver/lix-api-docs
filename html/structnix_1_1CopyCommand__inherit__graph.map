@@ -1,0 +1,15 @@
+<map id="nix::CopyCommand" name="nix::CopyCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,232,284,260"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1CmdCopy.html" title=" " alt="" coords="5,308,118,336"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,270,89,310,87,305,168,265"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1CmdCopyLog.html" title=" " alt="" coords="142,308,277,336"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="212,276,212,308,207,308,207,276"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1CmdMakeContentAddressed.html" title=" " alt="" coords="301,308,534,336"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="262,263,381,305,379,310,260,268"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="134,157,285,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,200,212,232,207,232,207,200"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="151,81,268,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,124,212,156,207,156,207,124"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="170,5,249,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,49,212,81,207,81,207,49"/>
+</map>

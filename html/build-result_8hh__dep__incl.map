@@ -1,0 +1,30 @@
+<map id="lix/libstore/build&#45;result.hh" name="lix/libstore/build&#45;result.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="381,5,507,50"/>
+<area shape="rect" id="Node000002" href="$installables_8hh.html" title=" " alt="" coords="173,106,358,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,60,292,108,290,104,387,55"/>
+<area shape="rect" id="Node000009" href="$goal_8hh.html" title=" " alt="" coords="665,98,791,143"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="523,51,665,96,664,101,521,56"/>
+<area shape="rect" id="Node000003" href="$installable-derived-path_8hh.html" title=" " alt="" coords="5,199,163,244"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,144,125,201,123,196,227,140"/>
+<area shape="rect" id="Node000004" href="$installable-value_8hh.html" title=" " alt="" coords="187,199,344,244"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,150,268,199,263,199,263,150"/>
+<area shape="rect" id="Node000005" href="$command_8hh.html" title=" " alt="" coords="126,309,300,336"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="249,259,222,310,218,307,245,256"/>
+<area shape="rect" id="Node000006" href="$installable-attr-path_8hh.html" title=" " alt="" coords="11,393,168,438"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="182,253,146,274,117,302,104,324,97,348,92,393,86,392,92,347,100,322,113,299,143,270,179,248"/>
+<area shape="rect" id="Node000008" href="$installable-flake_8hh.html" title=" " alt="" coords="324,300,481,345"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="309,251,374,298,371,302,306,256"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,348,121,395,117,390,182,343"/>
+<area shape="rect" id="Node000007" href="$nix_2daemon_8cc.html" title=" " alt="" coords="192,402,328,429"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="229,349,256,400,251,402,225,351"/>
+<area shape="rect" id="Node000010" href="$derivation-goal_8hh.html" title=" " alt="" coords="472,199,616,244"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="676,153,586,201,583,196,673,148"/>
+<area shape="rect" id="Node000012" href="$drv-output-substitution-goal_8hh.html" title=" " alt="" coords="640,191,816,252"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="731,158,731,190,725,190,725,158"/>
+<area shape="rect" id="Node000013" href="$substitution-goal_8hh.html" title=" " alt="" coords="840,199,995,244"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="784,148,877,196,875,201,782,153"/>
+<area shape="rect" id="Node000014" href="$worker_8hh.html" title=" " alt="" coords="1020,199,1146,244"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="807,136,903,159,1007,188,1030,196,1029,201,1006,193,902,164,806,141"/>
+<area shape="rect" id="Node000011" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="506,300,686,345"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="565,256,587,299,582,301,560,259"/>
+</map>

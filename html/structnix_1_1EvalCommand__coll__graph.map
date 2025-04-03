@@ -1,0 +1,20 @@
+<map id="nix::EvalCommand" name="nix::EvalCommand">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,432,169,460"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="5,134,156,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,178,83,237,83,370,87,403,95,431,89,433,82,404,78,371,78,237,78,178"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="134,5,251,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,43,130,62,108,84,94,110,86,134,81,133,89,108,104,81,127,57,152,39"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="118,82,267,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="195,48,195,82,190,82,190,48"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="173,186,252,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,174,254,160,280,122,283,105,277,83,266,68,253,55,222,36,225,31,256,51,270,65,282,81,288,104,285,124,259,163,246,177"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1MixEvalArgs.html" title=" " alt="" coords="139,355,270,383"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="186,226,170,243,159,263,156,288,165,313,179,336,194,353,189,357,174,339,160,315,151,289,154,262,166,240,182,222"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1MixRepair.html" title=" " alt="" coords="168,263,284,290"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="220,228,226,262,221,263,215,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,125,213,185,207,186,195,126"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="175,394,117,434,114,430,172,390"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="222,306,210,356,205,354,217,305"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1SearchPath.html" title=" " alt="" coords="308,263,429,290"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="333,300,230,357,227,352,330,296"/>
+</map>

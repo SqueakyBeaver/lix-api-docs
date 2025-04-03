@@ -1,0 +1,8 @@
+<map id="nix::StaticSymbols" name="nix::StaticSymbols">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,486,148,514"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Symbol.html" title=" " alt="" coords="27,5,126,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,49,70,207,68,313,71,421,77,485,72,486,66,421,63,313,64,207,72,49"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Expr_1_1AstSymbols.html" title=" " alt="" coords="223,314,386,341"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="97,44,297,311,293,315,93,47"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,354,247,388,205,423,150,460,102,488,99,483,148,455,202,419,244,384,280,350"/>
+</map>

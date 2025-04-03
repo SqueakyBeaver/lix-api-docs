@@ -1,0 +1,51 @@
+<map id="nix::AbstractSetting" name="nix::AbstractSetting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,272,155,300"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="203,5,404,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,256,102,213,126,161,158,107,201,60,219,48,222,53,204,64,163,110,131,163,107,215,92,258"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="207,74,400,102"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,257,108,223,132,184,163,144,201,111,222,100,224,104,204,115,167,148,137,187,113,226,96,260"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="222,125,384,170"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,260,146,219,201,180,226,168,228,173,204,185,150,223,106,264"/>
+<area shape="rect" id="Node000007" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="211,194,396,222"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="124,263,202,232,242,220,244,225,204,237,126,268"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="211,246,396,274"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="169,273,210,268,211,273,170,278"/>
+<area shape="rect" id="Node000009" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="216,298,390,326"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="170,294,216,299,216,304,169,299"/>
+<area shape="rect" id="Node000010" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="213,349,394,394"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="129,304,204,335,235,346,234,351,202,339,127,309"/>
+<area shape="rect" id="Node000011" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="222,419,384,463"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="104,311,147,358,174,383,204,404,226,416,224,420,201,409,171,387,143,362,100,314"/>
+<area shape="rect" id="Node000012" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="213,488,394,533"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="95,313,111,350,135,393,166,436,204,474,222,485,219,490,201,478,162,440,131,395,107,352,90,315"/>
+<area shape="rect" id="Node000013" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="221,556,386,584"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="89,315,102,365,124,427,157,490,179,518,204,543,222,554,219,558,201,547,175,522,153,493,119,429,97,366,84,316"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1MaxBuildJobsSetting.html" title=" " alt="" coords="452,14,636,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,25,452,25,452,30,420,30"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1PluginFilesSetting.html" title=" " alt="" coords="462,74,627,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,85,461,85,461,90,415,90"/>
+<area shape="rect" id="Node000014" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="454,201,634,246"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="397,548,402,543,425,508,434,474,433,439,427,404,421,368,420,332,428,294,450,257,463,245,466,249,454,260,433,296,425,332,427,368,433,403,439,439,440,474,430,511,406,547,401,552"/>
+<area shape="rect" id="Node000015" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="474,271,615,315"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="397,548,402,543,421,517,429,491,430,465,427,438,424,411,424,383,432,355,450,326,471,309,475,313,454,329,437,357,430,384,429,410,432,437,435,465,434,492,426,520,406,547,401,552"/>
+<area shape="rect" id="Node000016" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="474,340,615,385"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="397,547,402,543,416,526,423,508,426,472,429,434,436,415,450,395,472,379,475,383,454,399,441,417,434,435,432,472,429,510,421,528,406,547,401,551"/>
+<area shape="rect" id="Node000017" href="$classnix_1_1Setting.html" title=" " alt="" coords="475,409,613,454"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="397,547,402,543,419,525,426,505,434,485,450,464,473,450,476,454,454,468,438,488,431,507,423,528,406,547,400,551"/>
+<area shape="rect" id="Node000018" href="$classnix_1_1Setting.html" title=" " alt="" coords="468,478,621,506"/>
+<area shape="poly" id="edge17_Node000013_Node000018" title=" " alt="" coords="385,549,403,543,427,529,451,516,486,504,487,509,453,521,429,534,405,547,387,554"/>
+<area shape="rect" id="Node000019" href="$classnix_1_1Setting.html" title=" " alt="" coords="468,530,621,558"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="401,557,467,549,467,555,402,562"/>
+<area shape="rect" id="Node000020" href="$classnix_1_1Setting.html" title=" " alt="" coords="473,582,615,610"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="402,578,473,586,472,591,401,583"/>
+<area shape="rect" id="Node000021" href="$classnix_1_1Setting.html" title=" " alt="" coords="458,633,630,678"/>
+<area shape="poly" id="edge20_Node000013_Node000021" title=" " alt="" coords="360,587,480,630,478,635,358,592"/>
+<area shape="rect" id="Node000022" href="$classnix_1_1Setting.html" title=" " alt="" coords="460,703,629,747"/>
+<area shape="poly" id="edge21_Node000013_Node000022" title=" " alt="" coords="331,593,385,640,453,688,477,700,475,705,451,693,382,644,328,597"/>
+<area shape="rect" id="Node000023" href="$classnix_1_1Setting.html" title=" " alt="" coords="452,771,636,799"/>
+<area shape="poly" id="edge22_Node000013_Node000023" title=" " alt="" coords="321,597,343,634,372,677,410,721,453,757,475,768,472,773,451,762,406,724,368,680,338,637,317,600"/>
+<area shape="rect" id="Node000024" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="460,823,628,851"/>
+<area shape="poly" id="edge23_Node000013_Node000024" title=" " alt="" coords="317,598,336,644,365,701,404,759,428,785,454,808,475,820,472,825,450,813,424,789,400,762,360,704,331,647,312,600"/>
+<area shape="rect" id="Node000025" href="$classnix_1_1Setting.html" title=" " alt="" coords="478,875,611,903"/>
+<area shape="poly" id="edge24_Node000013_Node000025" title=" " alt="" coords="314,598,330,654,357,725,398,798,424,831,454,860,478,874,476,879,450,864,420,835,394,801,352,727,325,656,308,600"/>
+</map>

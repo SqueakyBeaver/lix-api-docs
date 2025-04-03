@@ -1,0 +1,18 @@
+<map id="nix::CmdCatNar" name="nix::CmdCatNar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,355,251,383"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="5,134,156,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,176,102,238,115,272,131,305,151,332,174,353,170,357,148,335,126,307,110,274,97,239,82,178"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="130,5,247,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,43,126,61,104,84,91,110,85,134,80,133,86,108,100,81,122,57,148,39"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="114,82,263,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="191,48,191,82,186,82,186,48"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="149,186,228,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,175,239,160,260,137,273,109,276,96,273,83,262,68,249,55,218,36,221,31,252,51,266,65,278,81,281,96,278,111,264,140,242,164,225,179"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1MixCat.html" title=" " alt="" coords="141,278,236,306"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="191,229,191,278,186,278,186,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,125,191,185,186,185,186,125"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="191,321,191,355,186,355,186,321"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="254,186,312,213"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="280,230,269,268,251,307,229,335,206,357,202,353,225,332,246,305,264,266,275,228"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="252,225,235,239,200,279,196,276,231,235,249,221"/>
+</map>

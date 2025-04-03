@@ -1,0 +1,43 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structnix_1_1Sink.html" title=" " alt="" coords="5,240,83,268"/>
+<area shape="rect" id="Node000001" href="$structnix_1_1AbstractHashSink.html" title=" " alt="" coords="139,5,303,33"/>
+<area shape="poly" id="edge372_Node000000_Node000001" title=" " alt="" coords="47,224,55,184,70,136,94,86,110,64,129,44,148,31,151,36,132,48,114,67,99,89,75,138,60,185,52,225"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1BufferedSink.html" title=" " alt="" coords="155,109,287,137"/>
+<area shape="poly" id="edge374_Node000000_Node000003" title=" " alt="" coords="59,225,88,185,107,165,129,148,154,135,156,140,132,152,111,169,92,189,63,228"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1FinishSink.html" title=" " alt="" coords="163,57,278,85"/>
+<area shape="poly" id="edge383_Node000000_Node000009" title=" " alt="" coords="51,224,79,160,101,125,129,96,161,79,164,83,132,100,105,129,83,162,56,226"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1LambdaSink.html" title=" " alt="" coords="156,161,286,189"/>
+<area shape="poly" id="edge385_Node000000_Node000012" title=" " alt="" coords="77,229,130,199,163,187,165,192,132,204,79,233"/>
+<area shape="rect" id="Node000013" href="$structnix_1_1LengthSink.html" title=" " alt="" coords="160,213,282,241"/>
+<area shape="poly" id="edge386_Node000000_Node000013" title=" " alt="" coords="98,243,159,234,160,239,98,248"/>
+<area shape="rect" id="Node000014" href="$structnix_1_1NullSink.html" title=" " alt="" coords="169,265,272,293"/>
+<area shape="poly" id="edge387_Node000000_Node000014" title=" " alt="" coords="98,259,169,269,168,274,98,264"/>
+<area shape="rect" id="Node000015" href="$classnix_1_1RefScanSink.html" title=" " alt="" coords="156,317,286,345"/>
+<area shape="poly" id="edge388_Node000000_Node000015" title=" " alt="" coords="80,274,132,302,165,314,163,319,130,307,78,279"/>
+<area shape="rect" id="Node000017" href="$structnix_1_1StringSink.html" title=" " alt="" coords="163,369,278,397"/>
+<area shape="poly" id="edge390_Node000000_Node000017" title=" " alt="" coords="63,279,92,318,111,338,132,354,164,369,162,374,129,359,108,342,88,322,59,282"/>
+<area shape="rect" id="Node000018" href="$structnix_1_1TeeSink.html" title=" " alt="" coords="171,421,270,449"/>
+<area shape="poly" id="edge391_Node000000_Node000018" title=" " alt="" coords="56,282,84,345,105,378,132,406,151,418,171,425,170,430,148,422,129,411,101,382,79,348,51,284"/>
+<area shape="rect" id="Node000019" href="$structnix_1_1daemon_1_1TunnelSink.html" title=" " alt="" coords="131,473,311,501"/>
+<area shape="poly" id="edge392_Node000000_Node000019" title=" " alt="" coords="52,283,61,322,76,370,99,418,114,439,132,458,151,471,148,475,129,463,110,443,95,420,71,372,55,324,47,284"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1HashSink.html" title=" " alt="" coords="385,5,495,33"/>
+<area shape="poly" id="edge373_Node000001_Node000002" title=" " alt="" coords="318,16,385,16,385,22,318,22"/>
+<area shape="poly" id="edge382_Node000003_Node000002" title=" " alt="" coords="298,101,310,94,324,82,333,70,342,57,358,44,383,31,386,36,360,48,346,60,337,73,328,86,312,99,300,105"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1CompressionSink.html" title=" " alt="" coords="359,57,521,85"/>
+<area shape="poly" id="edge375_Node000003_Node000004" title=" " alt="" coords="297,103,378,83,379,88,298,108"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1FdSink.html" title=" " alt="" coords="394,161,487,189"/>
+<area shape="poly" id="edge380_Node000003_Node000010" title=" " alt="" coords="298,139,394,162,392,167,297,144"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1FramedSink.html" title=" " alt="" coords="377,109,503,137"/>
+<area shape="poly" id="edge381_Node000003_Node000011" title=" " alt="" coords="302,120,376,120,376,126,302,126"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1ArchiveCompressionSink.html" title=" " alt="" coords="573,5,784,33"/>
+<area shape="poly" id="edge376_Node000004_Node000005" title=" " alt="" coords="521,51,611,31,612,36,523,56"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1ChunkedCompressionSink.html" title=" " alt="" coords="569,57,788,85"/>
+<area shape="poly" id="edge377_Node000004_Node000006" title=" " alt="" coords="537,68,569,68,569,74,537,74"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1NoneSink.html" title=" " alt="" coords="623,109,734,137"/>
+<area shape="poly" id="edge379_Node000004_Node000008" title=" " alt="" coords="523,86,623,108,622,114,521,92"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1BrotliCompressionSink.html" title=" " alt="" coords="836,57,1033,85"/>
+<area shape="poly" id="edge378_Node000006_Node000007" title=" " alt="" coords="803,68,835,68,835,74,803,74"/>
+<area shape="poly" id="edge384_Node000009_Node000004" title=" " alt="" coords="294,68,359,68,359,74,294,74"/>
+<area shape="rect" id="Node000016" href="$classnix_1_1PathRefScanSink.html" title=" " alt="" coords="361,317,519,345"/>
+<area shape="poly" id="edge389_Node000015_Node000016" title=" " alt="" coords="302,328,360,328,360,334,302,334"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::EvalErrorContext" name="nix::EvalErrorContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="48,98,208,126"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1PosTable.html" title=" " alt="" coords="5,5,112,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,44,120,96,116,99,75,47"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1DebugState.html" title=" " alt="" coords="136,5,261,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,48,170,76,146,100,142,96,166,72,183,45"/>
+</map>

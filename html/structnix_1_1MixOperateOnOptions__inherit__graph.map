@@ -1,0 +1,35 @@
+<map id="nix::MixOperateOnOptions" name="nix::MixOperateOnOptions">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,188,325,216"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1BuiltPathsCommand.html" title=" " alt="" coords="373,136,554,164"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,181,397,162,398,167,310,187"/>
+<area shape="rect" id="Node000016" href="$structnix_1_1CmdDiffClosures.html" title=" " alt="" coords="384,188,543,216"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="341,199,384,199,384,204,341,204"/>
+<area shape="rect" id="Node000017" href="$structnix_1_1CmdWhyDepends.html" title=" " alt="" coords="381,240,546,268"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="310,217,398,237,397,242,309,222"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Args.html" title=" " alt="" coords="5,188,84,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,199,131,199,131,204,99,204"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1CmdCopy.html" title=" " alt="" coords="639,84,751,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="543,129,638,108,639,113,544,135"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1CmdRealisationInfo.html" title=" " alt="" coords="606,136,784,164"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="570,147,606,147,606,152,570,152"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1StorePathsCommand.html" title=" " alt="" coords="602,188,788,216"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="544,165,631,185,629,190,543,170"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1CmdCopySigs.html" title=" " alt="" coords="883,5,1022,33"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="781,178,786,173,798,158,805,142,809,110,812,77,820,60,834,44,856,30,881,21,883,26,859,34,837,48,824,63,818,78,814,110,810,144,803,161,790,177,784,182"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1CmdMakeContentAddressed.html" title=" " alt="" coords="836,57,1069,85"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="778,179,786,173,802,155,809,135,817,115,834,96,857,83,859,88,837,100,821,118,814,137,806,157,789,177,781,183"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1CmdPathInfo.html" title=" " alt="" coords="886,109,1018,137"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="766,180,787,173,810,160,835,147,885,133,887,138,837,152,813,165,789,178,768,185"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1CmdSign.html" title=" " alt="" coords="899,161,1006,189"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="803,188,898,178,898,183,803,193"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1CmdStoreDelete.html" title=" " alt="" coords="874,213,1030,241"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="804,210,874,217,874,222,803,215"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1CmdStoreRepair.html" title=" " alt="" coords="875,265,1030,293"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="747,219,836,250,883,262,882,267,835,255,745,224"/>
+<area shape="rect" id="Node000013" href="$structnix_1_1CmdVerify.html" title=" " alt="" coords="894,317,1010,345"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="724,224,774,265,837,302,895,320,893,325,835,307,771,269,721,228"/>
+<area shape="rect" id="Node000014" href="$structnix_1_1StorePathCommand.html" title=" " alt="" coords="863,369,1042,397"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="715,227,765,292,799,326,837,354,864,366,861,371,834,359,795,330,761,296,711,231"/>
+<area shape="rect" id="Node000015" href="$structnix_1_1CmdDumpPath.html" title=" " alt="" coords="1117,369,1263,397"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1057,380,1117,380,1117,386,1057,386"/>
+</map>

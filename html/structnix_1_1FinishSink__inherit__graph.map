@@ -1,0 +1,15 @@
+<map id="nix::FinishSink" name="nix::FinishSink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,81,407,109"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1CompressionSink.html" title=" " alt="" coords="268,157,431,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,124,352,156,347,156,347,124"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1Sink.html" title=" " alt="" coords="311,5,388,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,49,352,81,347,81,347,49"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1ArchiveCompressionSink.html" title=" " alt="" coords="5,232,217,260"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="293,192,154,234,153,229,292,187"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1ChunkedCompressionSink.html" title=" " alt="" coords="240,232,459,260"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="352,200,352,232,347,232,347,200"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1NoneSink.html" title=" " alt="" coords="483,232,595,260"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="399,188,506,229,504,234,397,193"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1BrotliCompressionSink.html" title=" " alt="" coords="251,308,448,336"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="352,276,352,308,347,308,347,276"/>
+</map>

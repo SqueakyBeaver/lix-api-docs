@@ -1,0 +1,9 @@
+<map id="nix::CommonProtoTest" name="nix::CommonProtoTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,192,200,220"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1ProtoTest.html" title=" " alt="" coords="5,98,227,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,158,119,192,113,192,113,158"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="14,5,114,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,45,107,96,102,99,75,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="139,5,197,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="157,48,130,99,125,96,152,45"/>
+</map>

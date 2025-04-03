@@ -1,0 +1,25 @@
+<map id="nix::Worker" name="nix::Worker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="635,177,729,205"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1WorkerBase.html" title=" " alt="" coords="287,8,413,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,5,473,3,521,6,569,17,612,38,629,52,643,70,663,108,676,146,682,176,676,177,670,148,658,110,639,73,625,56,610,43,567,22,521,11,473,8,429,10"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1GoalFactory.html" title=" " alt="" coords="25,8,152,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,19,286,19,286,24,167,24"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1Activity.html" title=" " alt="" coords="300,69,400,97"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="415,85,510,100,562,113,612,133,644,153,669,175,665,179,641,157,610,137,561,119,509,105,414,90"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1Logger.html" title=" " alt="" coords="42,65,135,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="150,77,300,80,300,85,150,83"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1Store.html" title=" " alt="" coords="308,151,392,178"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="407,166,635,185,635,190,406,172"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="11,117,166,161"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="181,145,308,158,307,163,181,151"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1Sync.html" title=" " alt="" coords="5,186,172,231"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="186,189,307,169,308,174,187,195"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1Store_1_1Stats.html" title=" " alt="" coords="21,255,156,300"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="157,246,171,241,239,210,263,194,307,176,309,180,266,199,242,214,173,245,159,251"/>
+<area shape="rect" id="Node000010" href="$classnix_1_1AsyncSemaphore.html" title=" " alt="" coords="269,208,431,236"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="446,231,527,233,569,229,610,222,635,214,657,203,659,208,637,219,612,228,570,235,527,238,446,236"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1Worker_1_1HookState.html" title=" " alt="" coords="265,260,435,288"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="450,281,531,277,571,269,610,256,628,246,644,232,669,204,673,207,648,236,631,250,612,261,573,275,531,283,451,287"/>
+<area shape="rect" id="Node000012" href="$classnix_1_1NotifyingCounter.html" title=" " alt="" coords="270,467,430,512"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="445,508,487,511,531,507,573,496,609,475,624,456,637,426,657,347,670,265,677,205,682,206,675,265,662,348,642,428,628,458,613,479,575,501,532,513,487,516,445,513"/>
+</map>

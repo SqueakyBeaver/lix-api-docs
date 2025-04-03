@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classnix_1_1Logger.html" title=" " alt="" coords="5,109,99,137"/>
+<area shape="rect" id="Node000001" href="$classnix_1_1CaptureLogger.html" title=" " alt="" coords="173,5,317,33"/>
+<area shape="poly" id="edge352_Node000000_Node000001" title=" " alt="" coords="75,97,107,69,145,43,175,31,177,36,148,48,110,73,79,101"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1JSONLogger.html" title=" " alt="" coords="182,57,308,85"/>
+<area shape="poly" id="edge353_Node000000_Node000002" title=" " alt="" coords="113,104,190,83,191,88,114,109"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1ProgressBar.html" title=" " alt="" coords="181,109,308,137"/>
+<area shape="poly" id="edge354_Node000000_Node000003" title=" " alt="" coords="114,120,181,120,181,126,114,126"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1SimpleLogger.html" title=" " alt="" coords="176,161,314,189"/>
+<area shape="poly" id="edge355_Node000000_Node000004" title=" " alt="" coords="114,137,191,158,190,163,113,142"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1daemon_1_1TunnelLogger.html" title=" " alt="" coords="147,213,343,241"/>
+<area shape="poly" id="edge356_Node000000_Node000005" title=" " alt="" coords="79,146,110,173,148,198,177,210,175,215,145,203,107,177,75,150"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nix::CmdFlake" name="nix::CmdFlake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,120,126"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="108,5,257,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,44,82,99,78,95,152,40"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="143,98,222,126"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="185,48,185,98,180,98,180,48"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="162,175,278,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,160,240,110,240,83,232,58,222,46,209,36,212,31,226,42,237,56,245,83,246,111,234,161"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="198,138,216,174,211,176,193,141"/>
+</map>

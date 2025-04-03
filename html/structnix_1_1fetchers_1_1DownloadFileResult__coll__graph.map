@@ -1,0 +1,8 @@
+<map id="nix::fetchers::DownloadFileResult" name="nix::fetchers::DownloadFileResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,115,254,160"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1StorePath.html" title=" " alt="" coords="5,5,117,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,43,139,113,135,116,79,47"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="134,10,143,19,135,28,118,32,117,27,133,24,138,19,131,14"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="218,5,277,33"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="230,47,174,116,170,113,226,43"/>
+</map>

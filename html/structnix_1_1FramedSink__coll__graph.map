@@ -1,0 +1,8 @@
+<map id="nix::FramedSink" name="nix::FramedSink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,175,135,203"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1BufferedSink.html" title=" " alt="" coords="5,82,138,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,126,71,134,71,151,73,174,68,175,66,151,66,134,67,126"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="74,125,74,175,69,175,69,125"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Sink.html" title=" " alt="" coords="33,5,110,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,48,74,82,69,82,69,48"/>
+</map>

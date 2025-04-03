@@ -1,0 +1,9 @@
+<map id="nix::fetchers::CurlInputScheme" name="nix::fetchers::CurlInputScheme">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,81,273,126"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1fetchers_1_1FileInputScheme.html" title=" " alt="" coords="5,174,172,218"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,138,114,175,111,171,152,134"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1fetchers_1_1TarballInputScheme.html" title=" " alt="" coords="195,174,382,218"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,134,266,171,263,175,222,138"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1fetchers_1_1InputScheme.html" title=" " alt="" coords="91,5,286,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,49,191,80,186,80,186,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::fetchers::CacheImpl" name="nix::fetchers::CacheImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,115,264,143"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1fetchers_1_1Cache.html" title=" " alt="" coords="5,14,156,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,51,164,113,160,117,101,55"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Sync.html" title=" " alt="" coords="180,5,357,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,63,188,117,184,113,236,59"/>
+</map>

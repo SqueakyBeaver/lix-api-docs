@@ -1,0 +1,7 @@
+<map id="nix::SimpleUserLock" name="nix::SimpleUserLock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,98,209,126"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1UserLock.html" title=" " alt="" coords="5,5,115,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,44,124,96,120,99,78,47"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AutoCloseFD.html" title=" " alt="" coords="139,5,272,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,47,145,99,140,96,183,44"/>
+</map>

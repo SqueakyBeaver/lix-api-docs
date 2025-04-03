@@ -1,0 +1,22 @@
+<map id="nix::LocalStore" name="nix::LocalStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="938,134,1056,162"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1IndirectRootStore.html" title=" " alt="" coords="727,99,889,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="902,128,939,134,938,140,901,133"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1LocalFSStore.html" title=" " alt="" coords="545,91,677,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="693,106,726,107,726,112,693,111"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Store.html" title=" " alt="" coords="257,83,340,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,96,544,101,544,106,355,101"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1GcStore.html" title=" " alt="" coords="392,134,493,162"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="355,114,402,131,400,136,353,119"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1LogStore.html" title=" " alt="" coords="389,32,496,60"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="353,75,400,58,402,63,355,80"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="11,5,166,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="176,53,234,72,257,80,256,85,232,77,175,58"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1Sync.html" title=" " alt="" coords="5,75,172,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="187,94,256,94,256,100,187,100"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1Store_1_1Stats.html" title=" " alt="" coords="21,144,156,189"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="170,137,232,117,255,109,257,114,234,122,172,142"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="508,145,938,145,938,150,508,150"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="507,129,553,117,555,122,509,134"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="499,63,570,88,568,93,497,68"/>
+</map>

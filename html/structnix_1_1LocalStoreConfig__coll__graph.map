@@ -1,0 +1,39 @@
+<map id="nix::LocalStoreConfig" name="nix::LocalStoreConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1298,280,1457,308"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1LocalFSStoreConfig.html" title=" " alt="" coords="1076,118,1249,146"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1196,153,1359,278,1356,282,1193,158"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1StoreConfig.html" title=" " alt="" coords="830,198,955,226"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="956,190,1112,143,1114,149,957,195"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Config.html" title=" " alt="" coords="466,179,556,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="572,193,830,206,830,211,571,199"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="214,179,359,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="374,190,465,190,465,196,374,196"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="440,111,582,155"/>
+<area shape="poly" id="edge20_Node000002_Node000006" title=" " alt="" coords="597,128,627,128,1075,128,1075,133,627,133,597,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="597,142,698,159,807,182,850,195,848,200,806,188,697,165,596,148"/>
+<area shape="rect" id="Node000007" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="204,124,369,152"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,133,440,132,440,137,385,139"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1AbstractSetting.html" title=" " alt="" coords="5,231,155,259"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="112,220,154,192,203,165,239,150,241,155,205,170,157,197,115,224"/>
+<area shape="rect" id="Node000010" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="204,335,369,363"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="115,266,157,293,205,320,236,332,234,337,203,325,154,298,112,270"/>
+<area shape="rect" id="Node000012" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="204,283,369,311"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="153,261,229,280,228,285,152,266"/>
+<area shape="rect" id="Node000014" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="204,231,369,259"/>
+<area shape="poly" id="edge16_Node000014_Node000008" title=" " alt="" coords="170,242,203,242,203,248,170,248"/>
+<area shape="rect" id="Node000016" href="$classnix_1_1BaseSetting.html" title=" " alt="" coords="204,51,369,79"/>
+<area shape="poly" id="edge19_Node000016_Node000008" title=" " alt="" coords="100,217,144,166,202,111,255,77,258,82,206,115,148,169,104,221"/>
+<area shape="rect" id="Node000009" href="$classnix_1_1Setting.html" title=" " alt="" coords="440,358,582,386"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="597,382,647,383,701,380,755,368,805,346,835,319,859,286,875,252,885,225,890,227,880,254,863,289,839,323,808,351,757,373,702,385,648,389,597,387"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="385,356,440,362,439,367,385,362"/>
+<area shape="rect" id="Node000011" href="$classnix_1_1Setting.html" title=" " alt="" coords="434,283,588,311"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="603,309,627,312,816,319,1003,317,1170,308,1298,299,1298,304,1170,314,1003,322,816,324,627,317,602,315"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="603,305,651,306,703,303,755,295,805,281,827,269,847,254,878,224,882,228,851,258,830,274,807,285,756,301,703,309,651,311,603,310"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="385,294,434,294,434,300,385,300"/>
+<area shape="rect" id="Node000013" href="$classnix_1_1Setting.html" title=" " alt="" coords="419,231,603,259"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="618,241,710,237,806,227,829,224,830,229,807,233,710,242,618,246"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="385,242,418,242,418,248,385,248"/>
+<area shape="rect" id="Node000015" href="$classnix_1_1PathsSetting.html" title=" " alt="" coords="627,5,806,50"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="822,32,888,40,955,53,1052,83,1130,115,1128,120,1050,88,954,58,887,45,821,37"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="385,54,626,33,627,38,385,59"/>
+</map>

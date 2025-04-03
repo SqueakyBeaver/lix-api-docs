@@ -1,0 +1,8 @@
+<map id="nix::Args" name="nix::Args">
+<area shape="rect" id="Node000001" title=" " alt="" coords="78,5,156,33"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="5,82,122,110"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="101,47,75,84,71,80,97,44"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="42,159,192,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,144,132,110,129,68,119,34,125,32,135,67,137,110,129,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,121,110,157,105,161,79,124"/>
+</map>

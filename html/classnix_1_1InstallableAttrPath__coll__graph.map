@@ -1,0 +1,9 @@
+<map id="nix::InstallableAttrPath" name="nix::InstallableAttrPath">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,192,241,220"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1InstallableValue.html" title=" " alt="" coords="79,115,233,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,158,159,192,153,192,153,158"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Installable.html" title=" " alt="" coords="5,14,123,42"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,51,146,113,142,117,84,55"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1ref.html" title=" " alt="" coords="146,5,350,50"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,63,170,117,166,113,216,59"/>
+</map>

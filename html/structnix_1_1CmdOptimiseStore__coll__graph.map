@@ -1,0 +1,12 @@
+<map id="nix::CmdOptimiseStore" name="nix::CmdOptimiseStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,178,203"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="16,82,167,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,125,94,175,89,175,89,125"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="207,5,323,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,42,123,84,121,79,219,37"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="190,82,340,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="268,48,268,82,262,82,262,48"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="294,175,372,203"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,161,354,150,361,116,358,101,349,84,324,55,293,36,296,31,327,51,354,81,363,99,366,116,359,152,355,163"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,121,325,173,321,176,281,124"/>
+</map>

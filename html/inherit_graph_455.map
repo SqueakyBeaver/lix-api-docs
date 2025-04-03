@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,428,117,456"/>
+<area shape="rect" id="Node000001" href="$structnix_1_1charptr__cast__detail_1_1RecursionHelper_3_01From_00_01To_00_01std_1_1enable__if__tceffa6d1841b8b6692043232e4814a0f.html" title=" " alt="" coords="165,5,391,84"/>
+<area shape="poly" id="edge461_Node000000_Node000001" title=" " alt="" coords="60,413,66,349,82,265,95,219,112,175,135,132,163,94,174,83,178,86,167,97,139,135,117,177,100,221,87,266,71,349,66,413"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1json_1_1avoids__null_3_01DeprecatedFeature_01_4.html" title=" " alt="" coords="190,108,366,152"/>
+<area shape="poly" id="edge462_Node000000_Node000002" title=" " alt="" coords="62,412,70,359,88,292,117,223,138,191,163,163,188,146,191,150,166,167,142,194,122,225,93,294,76,360,67,413"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1json_1_1avoids__null_3_01ExperimentalFeature_01_4.html" title=" " alt="" coords="184,177,372,222"/>
+<area shape="poly" id="edge463_Node000000_Node000003" title=" " alt="" coords="66,413,78,373,97,324,125,275,163,232,182,219,185,224,166,236,130,278,102,326,83,374,71,414"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1json_1_1avoids__null_3_01bool_01_4.html" title=" " alt="" coords="199,246,357,291"/>
+<area shape="poly" id="edge464_Node000000_Node000004" title=" " alt="" coords="73,413,109,357,134,327,163,301,197,283,200,288,166,306,138,330,113,360,78,416"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1json_1_1avoids__null_3_01std_1_1list_3_01T_01_4_01_4.html" title=" " alt="" coords="199,316,357,360"/>
+<area shape="poly" id="edge465_Node000000_Node000005" title=" " alt="" coords="90,417,124,393,164,370,197,356,199,361,166,375,127,397,93,421"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1json_1_1avoids__null_3_01std_1_1map_3_01K_00_01V_01_4_01_4.html" title=" " alt="" coords="196,385,360,430"/>
+<area shape="poly" id="edge466_Node000000_Node000006" title=" " alt="" coords="132,428,195,418,196,423,132,433"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1json_1_1avoids__null_3_01std_1_1string_01_4.html" title=" " alt="" coords="199,454,357,499"/>
+<area shape="poly" id="edge467_Node000000_Node000007" title=" " alt="" coords="132,451,199,461,198,467,131,456"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1json_1_1avoids__null_3_01std_1_1vector_3_01T_01_4_01_4.html" title=" " alt="" coords="199,524,357,568"/>
+<area shape="poly" id="edge468_Node000000_Node000008" title=" " alt="" coords="93,463,127,487,166,509,199,523,197,528,164,514,124,491,90,467"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1json_1_1is__integral__enum_3_01ActivityType_01_4.html" title=" " alt="" coords="190,593,366,638"/>
+<area shape="poly" id="edge469_Node000000_Node000009" title=" " alt="" coords="78,468,113,524,138,554,166,578,191,592,188,597,163,583,134,557,109,527,73,471"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1json_1_1is__integral__enum_3_01ResultType_01_4.html" title=" " alt="" coords="195,662,361,707"/>
+<area shape="poly" id="edge470_Node000000_Node000010" title=" " alt="" coords="71,470,83,510,102,558,130,606,166,648,196,666,193,670,163,652,125,609,97,560,78,511,66,471"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1json_1_1is__integral__enum_3_01TrustedFlag_01_4.html" title=" " alt="" coords="193,732,363,776"/>
+<area shape="poly" id="edge471_Node000000_Node000011" title=" " alt="" coords="67,471,76,524,93,590,122,659,142,690,166,717,194,735,191,740,163,721,138,693,117,661,88,592,70,525,62,472"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1json_1_1is__integral__enum_3_01Verbosity_01_4.html" title=" " alt="" coords="200,801,356,846"/>
+<area shape="poly" id="edge472_Node000000_Node000012" title=" " alt="" coords="65,471,69,536,83,620,96,665,114,709,137,751,167,787,182,799,200,808,198,813,179,804,163,791,133,754,109,712,91,667,78,622,64,536,60,471"/>
+</map>

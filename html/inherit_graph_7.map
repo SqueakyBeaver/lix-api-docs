@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,281,58,309"/>
+<area shape="rect" id="Node000001" href="$classnix_1_1BadNixStringContextElem.html" title=" " alt="" coords="108,5,326,33"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="30,265,33,217,43,157,66,95,82,67,104,43,119,31,122,36,107,46,87,70,70,98,48,158,38,217,35,266"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1BuildEnvFileConflictError.html" title=" " alt="" coords="128,57,306,102"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="34,266,42,231,55,189,75,148,104,112,126,97,129,101,107,116,79,151,60,191,47,232,39,267"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1EvalError.html" title=" " alt="" coords="163,125,272,153"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="39,266,62,213,81,186,104,164,132,149,162,141,163,146,134,154,107,168,85,190,67,216,44,268"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1ExecError.html" title=" " alt="" coords="162,177,272,205"/>
+<area shape="poly" id="edge11_Node000000_Node000005" title=" " alt="" coords="49,267,73,240,104,216,132,203,161,195,163,200,134,208,107,220,77,244,53,271"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1FileTransferError.html" title=" " alt="" coords="140,229,295,257"/>
+<area shape="poly" id="edge12_Node000000_Node000006" title=" " alt="" coords="72,278,105,267,151,255,152,260,106,272,73,283"/>
+<area shape="rect" id="Node000007" href="$classnix_1_1MissingDeprecatedFeature.html" title=" " alt="" coords="106,281,329,309"/>
+<area shape="poly" id="edge13_Node000000_Node000007" title=" " alt="" coords="74,292,105,292,105,298,74,298"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1MissingExperimentalFeature.html" title=" " alt="" coords="124,333,310,378"/>
+<area shape="poly" id="edge14_Node000000_Node000008" title=" " alt="" coords="73,307,107,318,143,330,141,335,105,323,72,312"/>
+<area shape="rect" id="Node000009" href="$classnix_1_1MissingRealisation.html" title=" " alt="" coords="131,401,304,429"/>
+<area shape="poly" id="edge15_Node000000_Node000009" title=" " alt="" coords="49,321,73,356,89,373,107,388,132,400,130,404,104,392,85,377,69,360,45,324"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1SQLiteError.html" title=" " alt="" coords="156,453,278,481"/>
+<area shape="poly" id="edge16_Node000000_Node000010" title=" " alt="" coords="42,323,64,382,83,413,107,438,130,452,156,460,155,465,128,457,104,443,79,416,60,385,37,325"/>
+<area shape="rect" id="Node000011" href="$classnix_1_1ShlexError.html" title=" " alt="" coords="159,505,276,533"/>
+<area shape="poly" id="edge17_Node000000_Node000011" title=" " alt="" coords="38,324,44,363,56,408,77,453,91,473,107,490,132,505,160,513,158,519,130,510,104,495,87,476,72,455,51,409,39,364,33,325"/>
+<area shape="rect" id="Node000012" href="$classnix_1_1SysError.html" title=" " alt="" coords="166,557,269,585"/>
+<area shape="poly" id="edge18_Node000000_Node000012" title=" " alt="" coords="35,324,38,372,49,431,71,491,87,519,107,542,135,559,166,567,164,572,132,564,104,547,83,522,66,494,44,433,33,373,30,325"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1InvalidPathError.html" title=" " alt="" coords="377,125,529,153"/>
+<area shape="poly" id="edge10_Node000003_Node000004" title=" " alt="" coords="287,136,377,136,377,142,287,142"/>
+</map>

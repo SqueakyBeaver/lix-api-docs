@@ -1,0 +1,6 @@
+<map id="nix::TeeSink" name="nix::TeeSink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,105,143"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1Sink.html" title=" " alt="" coords="16,5,94,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,49,55,57,55,91,56,114,51,115,50,91,50,57,50,49"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="58,48,58,115,52,115,52,48"/>
+</map>

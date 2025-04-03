@@ -1,0 +1,20 @@
+<map id="nix::CmdRegistryPin" name="nix::CmdRegistryPin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,308,258,336"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1RegistryCommand.html" title=" " alt="" coords="5,232,176,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,268,167,305,163,310,117,272"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="203,5,282,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,38,155,56,126,83,106,121,96,163,92,202,92,232,87,232,87,202,90,162,101,119,122,79,152,52,188,34"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1Command.html" title=" " alt="" coords="136,81,253,109"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="228,48,205,82,201,79,223,45"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1MixEvalArgs.html" title=" " alt="" coords="301,157,432,184"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="265,44,318,107,358,154,354,158,314,110,261,47"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1MixRepair.html" title=" " alt="" coords="328,81,443,109"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="283,38,361,78,359,83,280,43"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1EvalCommand.html" title=" " alt="" coords="200,232,344,260"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,272,199,310,196,305,242,268"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="127,157,278,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,194,261,230,258,234,223,198"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,124,204,156,198,157,195,124"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="339,196,290,234,287,230,336,192"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="381,124,372,157,367,156,376,123"/>
+</map>

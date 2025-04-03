@@ -1,0 +1,32 @@
+<map id="nix::CmdEval" name="nix::CmdEval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,535,297,563"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1MixJSON.html" title=" " alt="" coords="5,232,111,260"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,275,71,319,85,374,108,432,141,485,173,513,209,532,206,537,170,517,137,489,103,435,80,376,66,320,58,276"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="259,5,337,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,31,186,49,157,64,132,83,103,120,82,162,70,202,63,232,58,231,64,201,78,160,98,117,128,79,154,59,184,44,243,26"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1InstallableCommand.html" title=" " alt="" coords="151,459,336,487"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="256,43,221,64,187,93,161,128,154,148,151,169,151,323,156,369,176,410,199,436,225,457,221,461,195,440,172,413,151,370,146,323,146,169,149,147,157,126,183,89,218,60,254,38"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1SourceExprCommand.html" title=" " alt="" coords="186,384,375,411"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="272,45,249,69,226,98,209,132,202,169,202,247,207,293,227,334,246,360,267,381,263,385,242,364,222,337,202,294,197,248,197,169,204,131,222,95,245,65,269,41"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1MixFlakeOptions.html" title=" " alt="" coords="236,308,394,336"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="288,48,278,82,269,132,265,171,268,210,281,259,292,285,307,306,302,309,288,287,275,261,263,211,260,171,264,131,273,80,283,47"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1Command.html" title=" " alt="" coords="288,81,404,109"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="317,45,340,79,335,82,313,48"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1MixEvalArgs.html" title=" " alt="" coords="461,157,591,184"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="343,38,418,79,472,119,514,154,510,158,469,123,415,83,340,42"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1MixRepair.html" title=" " alt="" coords="479,81,594,109"/>
+<area shape="poly" id="edge16_Node000011_Node000003" title=" " alt="" coords="353,34,495,78,493,83,351,40"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1MixReadOnlyOption.html" title=" " alt="" coords="487,308,666,336"/>
+<area shape="poly" id="edge18_Node000012_Node000003" title=" " alt="" coords="353,20,422,26,498,37,565,54,591,65,608,79,625,108,632,140,632,173,627,206,607,267,586,309,582,307,602,265,622,205,627,172,627,140,620,110,604,83,588,70,563,59,497,42,421,32,352,26"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,503,246,535,241,535,241,503"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="270,426,252,460,248,458,265,424"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="305,351,289,384,284,382,300,349"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1EvalCommand.html" title=" " alt="" coords="290,232,434,260"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="348,275,326,309,321,306,343,272"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="287,157,437,184"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="365,200,365,232,359,232,359,200"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="355,124,362,156,357,157,350,125"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="484,193,392,234,390,229,482,189"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="535,124,531,157,525,156,530,124"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="549,347,461,412,349,489,269,537,266,532,346,485,458,408,546,343"/>
+</map>

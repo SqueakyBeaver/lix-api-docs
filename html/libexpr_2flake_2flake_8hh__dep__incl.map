@@ -1,0 +1,14 @@
+<map id="lix/libexpr/flake/flake.hh" name="lix/libexpr/flake/flake.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,296,33"/>
+<area shape="rect" id="Node000002" href="$installable-value_8hh.html" title=" " alt="" coords="129,81,287,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,49,211,80,205,80,205,49"/>
+<area shape="rect" id="Node000003" href="$command_8hh.html" title=" " alt="" coords="121,182,295,210"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,141,211,182,205,182,205,141"/>
+<area shape="rect" id="Node000004" href="$installable-attr-path_8hh.html" title=" " alt="" coords="5,266,163,311"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="152,137,130,154,112,175,100,197,93,222,87,266,82,265,88,221,95,195,107,172,126,150,149,132"/>
+<area shape="rect" id="Node000006" href="$installable-flake_8hh.html" title=" " alt="" coords="319,174,476,218"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="268,130,353,171,351,176,266,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,221,115,268,112,264,177,217"/>
+<area shape="rect" id="Node000005" href="$nix_2daemon_8cc.html" title=" " alt="" coords="186,275,323,302"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="224,222,250,273,246,276,219,225"/>
+</map>

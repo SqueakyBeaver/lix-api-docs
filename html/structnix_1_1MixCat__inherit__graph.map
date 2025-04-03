@@ -1,0 +1,9 @@
+<map id="nix::MixCat" name="nix::MixCat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,81,191,109"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1CmdCatNar.html" title=" " alt="" coords="5,157,130,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,121,83,158,79,154,117,118"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1CmdCatStore.html" title=" " alt="" coords="153,157,288,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,118,209,154,205,158,166,121"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Args.html" title=" " alt="" coords="104,5,183,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,49,146,81,141,81,141,49"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nix::EvalSettings" name="nix::EvalSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,157,143,184"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Config.html" title=" " alt="" coords="32,81,123,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,124,80,156,75,156,75,124"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="5,5,150,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,49,80,81,75,81,75,49"/>
+</map>

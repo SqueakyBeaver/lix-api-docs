@@ -1,0 +1,25 @@
+<map id="nix::SSHStore" name="nix::SSHStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="909,163,1018,191"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1RemoteStore.html" title=" " alt="" coords="677,111,811,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="827,138,886,152,916,160,914,165,884,157,825,143"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Store.html" title=" " alt="" coords="257,83,340,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,76,389,69,464,62,522,62,581,72,653,90,707,108,705,113,652,96,580,77,522,68,464,67,390,74,356,81"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1GcStore.html" title=" " alt="" coords="418,83,518,111"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="355,94,417,94,417,100,355,100"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1LogStore.html" title=" " alt="" coords="415,135,521,163"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="355,112,421,132,420,137,354,117"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="11,5,166,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,53,234,72,257,80,256,85,232,77,175,58"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1Sync.html" title=" " alt="" coords="5,75,172,119"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,94,256,94,256,100,187,100"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1Store_1_1Stats.html" title=" " alt="" coords="21,144,156,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="170,137,232,117,255,109,257,114,234,122,172,142"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="534,101,677,116,676,121,534,106"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="536,140,676,128,676,133,537,146"/>
+<area shape="rect" id="Node000009" href="$classnix_1_1ref.html" title=" " alt="" coords="389,188,547,249"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="561,190,652,160,676,149,706,137,708,142,678,154,654,164,563,195"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="715,163,773,191"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="789,174,908,174,908,180,789,180"/>
+<area shape="rect" id="Node000011" href="$classnix_1_1SSHMaster.html" title=" " alt="" coords="684,215,804,243"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="818,212,884,197,914,189,915,194,886,202,820,217"/>
+</map>

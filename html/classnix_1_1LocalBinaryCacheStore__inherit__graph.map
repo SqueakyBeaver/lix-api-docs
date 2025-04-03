@@ -1,0 +1,12 @@
+<map id="nix::LocalBinaryCacheStore" name="nix::LocalBinaryCacheStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,325,205,353"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1BinaryCacheStore.html" title=" " alt="" coords="22,249,188,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,293,108,325,102,325,102,293"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Store.html" title=" " alt="" coords="63,98,147,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,141,88,174,88,201,102,248,97,249,82,202,82,173,91,140"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1LogStore.html" title=" " alt="" coords="97,174,204,201"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="123,138,145,172,140,175,119,141"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="28,5,182,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,66,108,97,102,97,102,66"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="136,216,115,250,111,247,132,213"/>
+</map>

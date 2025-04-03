@@ -1,0 +1,25 @@
+var structnix_1_1RestrictedStore =
+[
+    [ "addIndirectRoot", "structnix_1_1RestrictedStore.html#ada767df6c6d3fa2fef8bb5c017c35d4d", null ],
+    [ "addSignatures", "structnix_1_1RestrictedStore.html#a7fbc6c279540b256324186332ed6895b", null ],
+    [ "addTempRoot", "structnix_1_1RestrictedStore.html#adab72e09d147bb0186c0462b45e40bf4", null ],
+    [ "addTextToStore", "structnix_1_1RestrictedStore.html#a230537b1c74c958257291b95a4d62c2e", null ],
+    [ "addToStore", "structnix_1_1RestrictedStore.html#a7b105df4c7393d65ec4d7f812b657848", null ],
+    [ "addToStoreFromDump", "structnix_1_1RestrictedStore.html#a2695538d76a602d81b5685605d88142c", null ],
+    [ "addToStoreRecursive", "structnix_1_1RestrictedStore.html#a6e20cee4e8cb16e109622bcc34f1f631", null ],
+    [ "buildDerivation", "structnix_1_1RestrictedStore.html#ae9e9b73ab335a507ac68c0e9e2c8c48b", null ],
+    [ "buildPaths", "structnix_1_1RestrictedStore.html#a68b15d5d7013b7fce0fe543c28dcdffd", null ],
+    [ "buildPathsWithResults", "structnix_1_1RestrictedStore.html#aabf26b37d4155ace8920b6b9a63ea9ed", null ],
+    [ "collectGarbage", "structnix_1_1RestrictedStore.html#a97e3a7cc84aa564c54f9d09939a31ef9", null ],
+    [ "ensurePath", "structnix_1_1RestrictedStore.html#aa0969524e8962edf5dfe848d4c767946", null ],
+    [ "findRoots", "structnix_1_1RestrictedStore.html#ab439bd5c3033910149380ad53a764dad", null ],
+    [ "isTrustedClient", "structnix_1_1RestrictedStore.html#aafd59bc04bad53ad67eec9bf2a39c258", null ],
+    [ "narFromPath", "structnix_1_1RestrictedStore.html#acda1fbf6cd06c04383644be385d3271e", null ],
+    [ "queryAllValidPaths", "structnix_1_1RestrictedStore.html#a41cac0d49cb510518b335ceb49b89fa0", null ],
+    [ "queryMissing", "structnix_1_1RestrictedStore.html#a4a8970ce165796109b5f682eb68b0ca6", null ],
+    [ "queryPartialDerivationOutputMap", "structnix_1_1RestrictedStore.html#a12583925c2c4da9ae5acb08ab773885f", null ],
+    [ "queryPathFromHashPart", "structnix_1_1RestrictedStore.html#af5d58b9abc48df0b7b04d74b8b303061", null ],
+    [ "queryPathInfoUncached", "structnix_1_1RestrictedStore.html#af178a94f8b9f87ee2251712edd495b06", null ],
+    [ "queryReferrers", "structnix_1_1RestrictedStore.html#a163310efac856527c1b204f33d7b68dd", null ],
+    [ "registerDrvOutput", "structnix_1_1RestrictedStore.html#a577999e0934589d5859c1fbeb75b6bfb", null ]
+];

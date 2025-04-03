@@ -1,0 +1,9 @@
+<map id="nix::DummyStoreConfig" name="nix::DummyStoreConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,232,182,260"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreConfig.html" title=" " alt="" coords="31,157,156,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,200,96,232,91,232,91,200"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Config.html" title=" " alt="" coords="48,81,139,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,124,96,156,91,156,91,124"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="21,5,166,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,49,96,81,91,81,91,49"/>
+</map>

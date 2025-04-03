@@ -1,0 +1,12 @@
+<map id="nix::CmdDumpPath2" name="nix::CmdDumpPath2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,98,384,126"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1Command.html" title=" " alt="" coords="134,5,250,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,41,292,95,288,99,219,45"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="5,98,155,126"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="166,45,98,99,95,95,163,41"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="97,191,175,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,177,162,166,174,129,182,92,189,33,194,34,188,93,179,131,166,168,160,179"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,137,130,189,126,192,94,140"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="278,5,336,33"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="309,48,309,98,304,98,304,48"/>
+</map>

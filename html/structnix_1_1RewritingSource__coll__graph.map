@@ -1,0 +1,10 @@
+<map id="nix::RewritingSource" name="nix::RewritingSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,132,200,160"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1Source.html" title=" " alt="" coords="5,14,99,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,57,56,82,66,107,78,119,93,129,90,134,75,123,62,109,51,84,48,57"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="66,55,93,107,112,130,108,133,89,109,61,57"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="128,14,186,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,57,129,132,124,131,147,56"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,5,368,50"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="263,64,238,88,209,110,163,134,160,129,207,106,235,84,259,60"/>
+</map>

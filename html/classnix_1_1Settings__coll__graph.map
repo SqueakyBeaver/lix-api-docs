@@ -1,0 +1,9 @@
+<map id="nix::Settings" name="nix::Settings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,311,178,339"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Config.html" title=" " alt="" coords="32,82,123,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,124,127,310,121,311,81,125"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1AbstractConfig.html" title=" " alt="" coords="5,5,150,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,48,80,82,75,82,75,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,82,205,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,125,132,311,127,310,168,124"/>
+</map>

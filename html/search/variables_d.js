@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['name_0',['name',['../structnix_1_1PrimOp.html#ae1ed5931a69ee628e5292a6b5c068c09',1,'nix::PrimOp::name'],['../structnix_1_1Pattern.html#ad1fd5d459b299d83672af918a0e090e8',1,'nix::Pattern::name'],['../structnix_1_1ExprLambda.html#a2f2092100ce34664eab6cfc6b46fd21d',1,'nix::ExprLambda::name'],['../structnix_1_1Goal.html#a1abf9bcae798616a7e1055ca549e2e97',1,'nix::Goal::name']]],
+  ['narhash_1',['narHash',['../structnix_1_1UnkeyedValidPathInfo.html#a8ddab14ca345e2d195c17a80045e6dcb',1,'nix::UnkeyedValidPathInfo']]],
+  ['naroffset_2',['narOffset',['../structnix_1_1FSAccessor_1_1Stat.html#a8feefefb6bd22bbe7867fa7b6e0988a0',1,'nix::FSAccessor::Stat']]],
+  ['narsize_3',['narSize',['../structnix_1_1SubstitutablePathInfo.html#afd76028c0669c4d37b54bc2ff87c1080',1,'nix::SubstitutablePathInfo']]],
+  ['needrestart_4',['needRestart',['../structnix_1_1DerivationGoal.html#a5684669f3809fbd2255071b4c141aa72',1,'nix::DerivationGoal']]],
+  ['nixbindir_5',['nixBinDir',['../classnix_1_1Settings.html#af3b74ac5250ea0e27d650a37c7473e4a',1,'nix::Settings']]],
+  ['nixconfdir_6',['nixConfDir',['../classnix_1_1Settings.html#ac46ec6003fee0bdcb2b0ea8d25e475d6',1,'nix::Settings']]],
+  ['nixdaemonsocketfile_7',['nixDaemonSocketFile',['../classnix_1_1Settings.html#ad168c93efffcd2fe1bdc1b32731014af',1,'nix::Settings']]],
+  ['nixlogdir_8',['nixLogDir',['../classnix_1_1Settings.html#ad920a05ce6cfef10b9d28ea097709cbf',1,'nix::Settings']]],
+  ['nixmandir_9',['nixManDir',['../classnix_1_1Settings.html#a6179c12531a871fce5240534586b6e5c',1,'nix::Settings']]],
+  ['nixschemaversion_10',['nixSchemaVersion',['../local-store_8hh.html#ab092abb5b0f54994893def106acf8453',1,'nix']]],
+  ['nixstatedir_11',['nixStateDir',['../classnix_1_1Settings.html#a6c86931b47ba80d008db87390a98fa84',1,'nix::Settings']]],
+  ['nixstore_12',['nixStore',['../classnix_1_1Settings.html#addf261b45de07685121797dd45a92875',1,'nix::Settings']]],
+  ['nixuserconffiles_13',['nixUserConfFiles',['../classnix_1_1Settings.html#a5cedeca63608d1e8d20099b553e7de59',1,'nix::Settings']]],
+  ['nonrecursivestackreservation_14',['nonRecursiveStackReservation',['../primops_8hh.html#aa9a514ba9337f48c5d7a64791186929d',1,'nix']]],
+  ['nrfailed_15',['nrFailed',['../structnix_1_1Goal.html#a14ba65e153e80e93bd009f18e02918fa',1,'nix::Goal']]],
+  ['nrincompleteclosure_16',['nrIncompleteClosure',['../structnix_1_1Goal.html#abea5f8b29e9db7debeccf6afb5bfa926',1,'nix::Goal']]],
+  ['nrnosubstituters_17',['nrNoSubstituters',['../structnix_1_1Goal.html#ace834e88610201ed191585a1ba2cb013',1,'nix::Goal']]],
+  ['number_18',['number',['../structnix_1_1Generation.html#a98141d167c76a2bf05923f930f8d9499',1,'nix::Generation']]]
+];

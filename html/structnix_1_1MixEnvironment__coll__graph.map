@@ -1,0 +1,10 @@
+<map id="nix::MixEnvironment" name="nix::MixEnvironment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,82,162,110"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Args.html" title=" " alt="" coords="204,5,283,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,42,113,84,110,79,201,38"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1Command.html" title=" " alt="" coords="185,82,302,110"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="246,48,246,82,241,82,241,48"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="222,159,372,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,145,316,114,316,98,312,83,291,56,265,36,269,31,295,52,317,81,321,98,321,115,313,146"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,121,290,157,285,161,259,124"/>
+</map>

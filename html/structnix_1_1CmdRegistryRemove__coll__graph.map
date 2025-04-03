@@ -1,0 +1,15 @@
+<map id="nix::CmdRegistryRemove" name="nix::CmdRegistryRemove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="136,175,323,203"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1RegistryCommand.html" title=" " alt="" coords="5,82,176,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,116,210,172,207,177,122,121"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Args.html" title=" " alt="" coords="302,5,380,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,39,135,84,134,79,286,34"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1Command.html" title=" " alt="" coords="283,82,399,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="344,48,344,82,338,82,338,48"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="360,175,509,203"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,160,424,122,410,84,387,56,361,36,364,31,390,52,414,81,430,121,436,160"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="315,122,247,176,244,172,312,118"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,119,423,173,419,177,363,123"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="200,82,258,110"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="232,125,232,175,226,175,226,125"/>
+</map>

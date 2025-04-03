@@ -1,0 +1,21 @@
+<map id="lix/libstore/derived&#45;path&#45;map.hh" name="lix/libstore/derived&#45;path&#45;map.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="393,5,536,50"/>
+<area shape="rect" id="Node000002" href="$derivations_8hh.html" title=" " alt="" coords="371,98,558,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,66,467,97,462,97,462,66"/>
+<area shape="rect" id="Node000003" href="$get-drvs_8hh.html" title=" " alt="" coords="18,182,183,210"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,132,159,184,158,179,390,127"/>
+<area shape="rect" id="Node000005" href="$builtins_8hh.html" title=" " alt="" coords="207,182,370,210"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="424,135,318,184,316,179,421,130"/>
+<area shape="rect" id="Node000006" href="$buildenv_8hh.html" title=" " alt="" coords="393,174,536,218"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="467,142,467,173,462,173,462,142"/>
+<area shape="rect" id="Node000007" href="$parsed-derivations_8hh.html" title=" " alt="" coords="559,174,698,218"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="506,131,586,171,584,175,503,135"/>
+<area shape="rect" id="Node000010" href="$nix_2daemon_8cc.html" title=" " alt="" coords="722,182,858,210"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="534,127,710,171,741,179,740,184,709,176,533,132"/>
+<area shape="rect" id="Node000004" href="$cmd-profiles_8hh.html" title=" " alt="" coords="5,275,196,302"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,225,103,274,98,274,98,225"/>
+<area shape="rect" id="Node000008" href="$derivation-goal_8hh.html" title=" " alt="" coords="556,266,701,311"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="631,234,631,266,626,266,626,234"/>
+<area shape="rect" id="Node000009" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="538,359,719,404"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="631,327,631,359,626,359,626,327"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structnix_1_1NeverAsync.html" title=" " alt="" coords="5,32,133,60"/>
+<area shape="rect" id="Node000001" href="$structnix_1_1AbstractNixRepl.html" title=" " alt="" coords="199,5,354,33"/>
+<area shape="poly" id="edge361_Node000000_Node000001" title=" " alt="" coords="148,33,198,26,199,32,148,38"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1CompareValues.html" title=" " alt="" coords="201,57,352,85"/>
+<area shape="poly" id="edge363_Node000000_Node000004" title=" " alt="" coords="148,53,201,59,200,65,147,58"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1NixRepl.html" title=" " alt="" coords="420,61,520,89"/>
+<area shape="poly" id="edge362_Node000001_Node000002" title=" " alt="" coords="345,35,373,43,422,58,421,63,371,48,343,40"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1detail_1_1ReplCompleterMixin.html" title=" " alt="" coords="181,109,372,154"/>
+<area shape="poly" id="edge364_Node000003_Node000002" title=" " alt="" coords="370,101,419,87,420,92,371,106"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="lix/libstore/local&#45;fs&#45;store.hh" name="lix/libstore/local&#45;fs&#45;store.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,5,334,50"/>
+<area shape="rect" id="Node000002" href="$indirect-root-store_8hh.html" title=" " alt="" coords="200,98,343,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,66,274,98,269,98,269,66"/>
+<area shape="rect" id="Node000003" href="$local-store_8hh.html" title=" " alt="" coords="124,191,249,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,156,208,192,204,189,239,152"/>
+<area shape="rect" id="Node000006" href="$uds-remote-store_8hh.html" title=" " alt="" coords="274,191,443,235"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="304,152,340,189,336,192,300,156"/>
+<area shape="rect" id="Node000004" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="5,283,186,328"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,248,119,285,115,281,152,244"/>
+<area shape="rect" id="Node000005" href="$nix_2daemon_8cc.html" title=" " alt="" coords="210,292,346,320"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="220,244,267,289,263,293,217,248"/>
+</map>

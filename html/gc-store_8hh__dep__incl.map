@@ -1,0 +1,23 @@
+<map id="lix/libstore/gc&#45;store.hh" name="lix/libstore/gc&#45;store.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="158,5,326,33"/>
+<area shape="rect" id="Node000002" href="$local-fs-store_8hh.html" title=" " alt="" coords="101,81,226,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,46,186,82,182,79,217,43"/>
+<area shape="rect" id="Node000008" href="$remote-store_8hh.html" title=" " alt="" coords="266,81,408,126"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="271,41,313,78,310,82,267,45"/>
+<area shape="rect" id="Node000003" href="$indirect-root-store_8hh.html" title=" " alt="" coords="58,174,202,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,141,141,174,136,173,148,139"/>
+<area shape="rect" id="Node000004" href="$local-store_8hh.html" title=" " alt="" coords="33,266,158,311"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,234,106,267,101,265,114,232"/>
+<area shape="rect" id="Node000007" href="$uds-remote-store_8hh.html" title=" " alt="" coords="183,266,352,311"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="177,225,236,264,233,268,174,229"/>
+<area shape="rect" id="Node000005" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="5,359,186,404"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="98,327,98,359,93,359,93,327"/>
+<area shape="rect" id="Node000006" href="$nix_2daemon_8cc.html" title=" " alt="" coords="322,368,458,395"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="174,311,348,364,346,369,172,316"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="406,132,428,149,446,172,456,199,458,227,454,256,447,284,424,333,402,369,397,366,419,331,442,282,449,255,453,227,450,200,441,175,424,153,402,136"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="295,138,279,155,267,175,261,198,259,222,265,265,259,266,254,222,256,197,262,173,275,152,291,134"/>
+<area shape="rect" id="Node000009" href="$remote-store-connection_8hh.html" title=" " alt="" coords="276,174,432,218"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="346,140,353,173,347,174,341,141"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="364,233,390,367,385,368,359,234"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="325,231,290,268,286,264,321,228"/>
+</map>

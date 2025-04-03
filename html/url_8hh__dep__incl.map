@@ -1,0 +1,36 @@
+<map id="lix/libutil/url.hh" name="lix/libutil/url.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,5,228,33"/>
+<area shape="rect" id="Node000002" href="$cmd-profiles_8hh.html" title=" " alt="" coords="5,249,196,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,43,97,60,79,82,70,104,67,127,71,174,83,217,96,248,91,250,78,219,66,175,62,127,65,103,74,80,94,56,119,38"/>
+<area shape="rect" id="Node000003" href="$fetchers_8hh.html" title=" " alt="" coords="340,81,528,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,35,387,78,386,83,230,40"/>
+<area shape="rect" id="Node000015" href="$url-name_8hh.html" title=", for some hueristic&#45;ish URL parsing." alt="" coords="88,81,249,109"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="171,49,171,81,166,81,166,49"/>
+<area shape="rect" id="Node000004" href="$flakeref_8hh.html" title=" " alt="" coords="138,165,332,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="389,117,268,167,266,162,387,113"/>
+<area shape="rect" id="Node000012" href="$builtin-fetchers_8hh_source.html" title=" " alt="" coords="356,157,512,201"/>
+<area shape="poly" id="edge15_Node000003_Node000012" title=" " alt="" coords="436,125,436,156,431,156,431,125"/>
+<area shape="rect" id="Node000013" href="$cache_8hh.html" title=" " alt="" coords="536,165,708,193"/>
+<area shape="poly" id="edge16_Node000003_Node000013" title=" " alt="" coords="479,113,593,162,591,167,477,118"/>
+<area shape="rect" id="Node000014" href="$libfetchers_2registry_8hh.html" title=" " alt="" coords="732,165,914,193"/>
+<area shape="poly" id="edge17_Node000003_Node000014" title=" " alt="" coords="512,110,761,162,760,167,510,115"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="202,203,123,251,121,246,199,199"/>
+<area shape="rect" id="Node000005" href="$libexpr_2flake_2flake_8hh.html" title=" " alt="" coords="146,325,322,353"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="238,208,237,324,231,324,232,208"/>
+<area shape="rect" id="Node000011" href="$lockfile_8hh.html" title=" " alt="" coords="271,249,463,277"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="271,199,347,247,345,251,268,204"/>
+<area shape="rect" id="Node000006" href="$installable-value_8hh.html" title=" " alt="" coords="127,401,284,445"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="227,368,216,401,211,399,222,367"/>
+<area shape="rect" id="Node000007" href="$command_8hh.html" title=" " alt="" coords="295,502,469,530"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="263,450,358,499,355,504,260,455"/>
+<area shape="rect" id="Node000008" href="$installable-attr-path_8hh.html" title=" " alt="" coords="66,586,223,631"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="142,456,121,473,104,494,99,517,103,541,115,564,128,584,124,587,110,567,98,543,93,517,99,492,117,469,139,452"/>
+<area shape="rect" id="Node000010" href="$installable-flake_8hh.html" title=" " alt="" coords="114,493,271,538"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="203,461,198,494,193,493,198,460"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="334,538,203,588,201,583,332,533"/>
+<area shape="rect" id="Node000009" href="$nix_2daemon_8cc.html" title=" " alt="" coords="314,594,450,622"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="384,545,384,594,379,594,379,545"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="332,287,259,327,256,322,329,282"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="371,293,384,501,378,502,366,293"/>
+<area shape="poly" id="edge19_Node000015_Node000002" title=" " alt="" coords="151,123,130,158,113,208,105,249,100,248,108,206,125,156,146,120"/>
+</map>

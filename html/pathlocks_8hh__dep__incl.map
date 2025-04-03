@@ -1,0 +1,9 @@
+<map id="lix/libstore/pathlocks.hh" name="lix/libstore/pathlocks.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,272,33"/>
+<area shape="rect" id="Node000002" href="$derivation-goal_8hh.html" title=" " alt="" coords="23,81,168,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,46,121,82,117,78,157,42"/>
+<area shape="rect" id="Node000004" href="$profiles_8hh_source.html" title=" " alt="" coords="192,90,354,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,42,261,87,257,91,207,46"/>
+<area shape="rect" id="Node000003" href="$local-derivation-goal_8hh.html" title=" " alt="" coords="5,174,186,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,141,98,173,93,173,93,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nix::Derivation" name="nix::Derivation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="126,242,243,269"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1BasicDerivation.html" title=" " alt="" coords="5,140,158,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,177,173,240,169,244,104,181"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="52,5,111,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,48,84,140,79,140,79,48"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1DerivedPathMap.html" title=" " alt="" coords="182,132,394,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,189,199,243,196,240,253,185"/>
+</map>

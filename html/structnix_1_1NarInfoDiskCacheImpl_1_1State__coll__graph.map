@@ -1,0 +1,7 @@
+<map id="nix::NarInfoDiskCacheImpl::State" name="nix::NarInfoDiskCacheImpl::State">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,234,214,279"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1SQLite.html" title=" " alt="" coords="5,5,97,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,47,113,233,108,234,56,49"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1SQLiteStmt.html" title=" " alt="" coords="120,5,243,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,49,125,234,120,233,171,47"/>
+</map>

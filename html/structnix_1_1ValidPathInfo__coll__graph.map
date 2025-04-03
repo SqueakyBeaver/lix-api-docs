@@ -1,0 +1,11 @@
+<map id="nix::ValidPathInfo" name="nix::ValidPathInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,191,255,218"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1UnkeyedValidPathInfo.html" title=" " alt="" coords="5,98,197,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,135,177,188,173,192,122,139"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Hash.html" title=" " alt="" coords="60,5,142,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,48,104,98,98,98,98,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="159,10,169,19,160,28,143,30,142,25,158,23,164,19,156,14"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1StorePath.html" title=" " alt="" coords="221,98,333,126"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="255,139,202,192,199,188,252,135"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="350,103,359,112,351,120,334,123,333,118,349,115,354,112,347,108"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="nix::curlFileTransfer::TransferItem" name="nix::curlFileTransfer::TransferItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,78,659,122"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="248,9,306,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,26,400,38,488,59,533,75,531,80,486,64,399,44,321,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="208,61,346,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,79,511,91,510,97,361,84"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1Activity.html" title=" " alt="" coords="227,113,326,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,122,487,112,510,109,511,114,487,117,342,127"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1Logger.html" title=" " alt="" coords="5,113,99,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,124,227,124,227,129,114,129"/>
+<area shape="rect" id="Node000006" href="$classnix_1_1Sync.html" title=" " alt="" coords="192,165,362,227"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="377,172,486,141,537,120,539,125,488,146,378,178"/>
+</map>

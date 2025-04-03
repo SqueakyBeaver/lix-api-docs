@@ -1,0 +1,5 @@
+<map id="nix::fetchers::Registry::Entry" name="nix::fetchers::Registry::Entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,170,160"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1fetchers_1_1Input.html" title=" " alt="" coords="16,5,159,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,48,90,115,85,115,85,48"/>
+</map>

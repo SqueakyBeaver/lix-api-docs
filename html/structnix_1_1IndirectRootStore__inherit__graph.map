@@ -1,0 +1,21 @@
+<map id="nix::IndirectRootStore" name="nix::IndirectRootStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="140,325,302,353"/>
+<area shape="rect" id="Node000007" href="$classnix_1_1LocalStore.html" title=" " alt="" coords="5,401,123,428"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="181,362,93,403,91,398,178,357"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1RestrictedStore.html" title=" " alt="" coords="147,401,296,428"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="224,368,224,400,219,400,219,368"/>
+<area shape="rect" id="Node000009" href="$classnix_1_1UDSRemoteStore.html" title=" " alt="" coords="320,401,482,428"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="268,356,370,398,368,403,266,361"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1LocalFSStore.html" title=" " alt="" coords="155,249,288,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,293,224,325,219,325,219,293"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Store.html" title=" " alt="" coords="180,98,263,126"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,138,174,155,161,175,159,195,169,215,185,233,203,247,199,251,181,236,164,218,154,196,156,173,170,151,187,134"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1GcStore.html" title=" " alt="" coords="171,174,272,201"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="224,141,224,173,219,173,219,141"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1LogStore.html" title=" " alt="" coords="296,174,402,201"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="259,131,328,171,325,176,256,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="144,5,298,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,66,224,97,219,97,219,66"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="224,217,224,249,219,249,219,217"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="315,212,245,251,243,247,312,207"/>
+</map>

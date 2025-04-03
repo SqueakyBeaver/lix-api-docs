@@ -1,0 +1,8 @@
+<map id="nix::ContentAddress" name="nix::ContentAddress">
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,98,225,126"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1ContentAddressMethod.html" title=" " alt="" coords="5,5,207,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,46,145,96,140,99,116,48"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Hash.html" title=" " alt="" coords="230,5,312,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,44,168,99,165,95,240,40"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="330,10,339,19,331,28,313,30,312,25,328,23,334,19,326,14"/>
+</map>

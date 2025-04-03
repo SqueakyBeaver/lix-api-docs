@@ -1,0 +1,17 @@
+<map id="nix::CmdCatStore" name="nix::CmdCatStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,355,176,383"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1StoreCommand.html" title=" " alt="" coords="5,134,156,162"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,177,110,355,104,355,81,177"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="130,5,247,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,43,126,61,104,84,91,110,85,134,80,133,86,108,100,81,122,57,148,39"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="114,82,263,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="191,48,191,82,186,82,186,48"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="149,186,228,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,175,239,160,260,137,273,109,276,96,273,83,262,68,249,55,218,36,221,31,252,51,266,65,278,81,281,96,278,111,264,140,242,164,225,179"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1MixCat.html" title=" " alt="" coords="141,278,236,306"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="191,229,191,278,186,278,186,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,125,191,185,186,185,186,125"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="165,319,124,357,120,353,162,315"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="251,186,310,213"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="259,226,204,280,200,276,255,222"/>
+</map>

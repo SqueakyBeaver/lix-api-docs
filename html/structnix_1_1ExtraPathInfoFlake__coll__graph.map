@@ -1,0 +1,20 @@
+<map id="nix::ExtraPathInfoFlake" name="nix::ExtraPathInfoFlake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,334,411,362"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1ExtraPathInfoValue.html" title=" " alt="" coords="142,233,314,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,270,315,332,311,336,249,274"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1ExtraPathInfo.html" title=" " alt="" coords="5,106,142,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,142,214,231,210,235,99,146"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1ExtraPathInfoValue_1_1Value.html" title=" " alt="" coords="166,98,338,143"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="248,159,233,233,228,232,242,158"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,5,348,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="304,48,269,99,265,96,299,45"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1FlakeRef.html" title=" " alt="" coords="371,106,477,134"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="346,42,412,104,409,108,342,46"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1ExtendedOutputsSpec.html" title=" " alt="" coords="28,5,220,33"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="125,48,128,61,134,72,149,87,167,98,164,102,146,91,130,76,123,63,120,49"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1ExtraPathInfoFlake_1_1Flake.html" title=" " alt="" coords="338,225,510,269"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="394,282,340,336,336,332,390,279"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="427,150,427,224,422,224,422,150"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1fetchers_1_1Input.html" title=" " alt="" coords="390,5,533,33"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="454,48,431,107,426,105,449,46"/>
+</map>

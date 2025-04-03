@@ -1,0 +1,19 @@
+<map id="nix::RemoteStore" name="nix::RemoteStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,106,811,134"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Store.html" title=" " alt="" coords="257,83,340,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,76,389,69,463,62,522,62,580,71,653,88,703,103,702,108,652,93,579,76,522,67,464,67,390,74,356,81"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1GcStore.html" title=" " alt="" coords="418,83,518,111"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="355,94,417,94,417,100,355,100"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1LogStore.html" title=" " alt="" coords="415,135,521,163"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="355,112,421,132,420,137,354,117"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,5,166,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="176,53,234,72,257,80,256,85,232,77,175,58"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Sync.html" title=" " alt="" coords="5,75,172,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,94,256,94,256,100,187,100"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1Store_1_1Stats.html" title=" " alt="" coords="21,144,156,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,137,232,117,255,109,257,114,234,122,172,142"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="534,100,677,112,676,117,534,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="536,139,676,124,676,129,537,144"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1ref.html" title=" " alt="" coords="389,188,547,249"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="561,189,652,158,712,132,714,137,654,163,563,194"/>
+</map>

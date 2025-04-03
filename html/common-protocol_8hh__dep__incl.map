@@ -1,0 +1,19 @@
+<map id="lix/libstore/common&#45;protocol.hh" name="lix/libstore/common&#45;protocol.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,5,322,50"/>
+<area shape="rect" id="Node000002" href="$common-protocol-impl_8hh.html" title=" " alt="" coords="5,98,157,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,60,122,100,119,95,192,56"/>
+<area shape="rect" id="Node000003" href="$serve-protocol_8hh.html" title=" " alt="" coords="181,98,312,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,66,249,98,244,98,244,66"/>
+<area shape="rect" id="Node000005" href="$worker-protocol_8hh.html" title=" " alt="" coords="340,98,478,143"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="300,56,372,95,369,100,297,60"/>
+<area shape="rect" id="Node000004" href="$serve-protocol-impl_8hh.html" title=" " alt="" coords="174,191,308,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,158,245,191,240,190,242,158"/>
+<area shape="rect" id="Node000006" href="$remote-store-connection_8hh.html" title=" " alt="" coords="331,191,487,235"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,158,412,190,406,190,406,158"/>
+<area shape="rect" id="Node000009" href="$worker-protocol-impl_8hh.html" title=" " alt="" coords="510,191,649,235"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="465,148,540,188,538,193,462,153"/>
+<area shape="rect" id="Node000007" href="$uds-remote-store_8hh.html" title=" " alt="" coords="235,283,404,328"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="379,248,343,285,339,281,375,244"/>
+<area shape="rect" id="Node000008" href="$nix_2daemon_8cc.html" title=" " alt="" coords="429,292,565,320"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="442,245,486,289,482,293,438,248"/>
+</map>

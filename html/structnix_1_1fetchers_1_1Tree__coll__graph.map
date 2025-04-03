@@ -1,0 +1,8 @@
+<map id="nix::fetchers::Tree" name="nix::fetchers::Tree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="16,98,154,126"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,48,41,73,50,85,63,95,59,100,47,89,36,75,30,49"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1StorePath.html" title=" " alt="" coords="88,5,200,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,48,113,75,97,99,92,96,108,73,126,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="217,11,226,19,218,27,200,30,200,25,216,23,221,19,214,15"/>
+</map>

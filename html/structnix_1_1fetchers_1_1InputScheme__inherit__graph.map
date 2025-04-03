@@ -1,0 +1,25 @@
+<map id="nix::fetchers::InputScheme" name="nix::fetchers::InputScheme">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,278,201,306"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1fetchers_1_1CurlInputScheme.html" title=" " alt="" coords="271,75,440,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,265,182,217,247,164,315,118,318,122,250,168,186,221,132,269"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1fetchers_1_1GitArchiveInputScheme.html" title=" " alt="" coords="267,179,445,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,269,248,233,282,221,283,227,250,238,155,274"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1fetchers_1_1GitInputScheme.html" title=" " alt="" coords="249,247,463,275"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="216,275,248,271,248,277,216,281"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1fetchers_1_1IndirectInputScheme.html" title=" " alt="" coords="260,299,452,343"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="216,302,260,307,259,312,216,307"/>
+<area shape="rect" id="Node000011" href="$structnix_1_1fetchers_1_1MercurialInputScheme.html" title=" " alt="" coords="270,368,442,413"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="149,310,250,353,282,365,280,370,248,358,147,315"/>
+<area shape="rect" id="Node000012" href="$structnix_1_1fetchers_1_1PathInputScheme.html" title=" " alt="" coords="270,437,442,482"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="128,315,180,369,214,398,250,423,274,434,271,439,247,427,211,402,177,373,124,319"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1fetchers_1_1FileInputScheme.html" title=" " alt="" coords="522,5,688,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,67,522,48,523,53,454,72"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1fetchers_1_1TarballInputScheme.html" title=" " alt="" coords="512,75,698,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="456,94,512,94,512,100,456,100"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1fetchers_1_1GitHubInputScheme.html" title=" " alt="" coords="511,144,699,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="460,184,510,177,511,182,461,189"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1fetchers_1_1GitLabInputScheme.html" title=" " alt="" coords="512,213,698,258"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="461,213,512,220,512,225,460,218"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1fetchers_1_1SourceHutInputScheme.html" title=" " alt="" coords="516,283,694,327"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="451,227,464,233,489,251,512,268,537,280,535,284,510,273,486,255,462,238,449,232"/>
+</map>

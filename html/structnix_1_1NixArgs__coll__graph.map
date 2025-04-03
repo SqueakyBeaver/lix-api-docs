@@ -1,0 +1,22 @@
+<map id="nix::NixArgs" name="nix::NixArgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="340,283,441,311"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="5,5,155,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,48,50,85,36,130,34,153,34,176,40,197,51,217,70,232,99,245,176,266,264,281,340,289,340,295,263,286,175,272,97,250,67,236,47,220,35,199,29,177,28,153,31,129,45,83,62,45"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="117,98,195,126"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="102,43,147,96,143,99,98,46"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="62,191,178,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,176,80,34,85,33,116,175"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,141,128,191,123,189,143,139"/>
+<area shape="rect" id="Node000005" href="$classnix_1_1MixCommonArgs.html" title=" " alt="" coords="202,191,363,218"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="188,133,266,188,263,192,185,137"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="312,226,377,281,373,285,308,231"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="254,98,312,126"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="285,141,285,190,280,190,280,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="388,191,468,218"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="419,234,398,284,394,282,414,232"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1AsyncIoRoot.html" title=" " alt="" coords="492,191,622,218"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="521,228,416,285,414,280,519,224"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1AsyncContext.html" title=" " alt="" coords="488,98,627,126"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="560,141,560,190,555,190,555,141"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="644,104,654,112,646,120,628,123,627,118,643,115,648,112,641,108"/>
+</map>

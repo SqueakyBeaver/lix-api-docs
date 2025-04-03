@@ -1,0 +1,7 @@
+<map id="nix::SimplePattern" name="nix::SimplePattern">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,175,146,203"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1Pattern.html" title=" " alt="" coords="28,98,123,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,141,78,175,73,175,73,141"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Symbol.html" title=" " alt="" coords="26,5,125,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,48,78,98,73,98,73,48"/>
+</map>

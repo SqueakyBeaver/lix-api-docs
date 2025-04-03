@@ -1,0 +1,13 @@
+<map id="nix::HookInstance" name="nix::HookInstance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,286,266,314"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1AutoCloseFD.html" title=" " alt="" coords="5,159,139,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,200,99,231,122,260,139,273,159,283,156,288,136,278,118,264,95,234,79,203"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Pid.html" title=" " alt="" coords="163,159,232,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,202,200,286,195,286,195,202"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1FdSink.html" title=" " alt="" coords="256,159,349,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,201,210,287,206,284,280,197"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1BufferedSink.html" title=" " alt="" coords="236,82,369,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,125,305,159,300,159,300,125"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1Sink.html" title=" " alt="" coords="264,5,341,33"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,48,305,82,300,82,300,48"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="nix::ExtraPathInfoFlake::Flake" name="nix::ExtraPathInfoFlake::Flake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,208,225,252"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1FlakeRef.html" title=" " alt="" coords="86,98,193,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,141,142,207,137,207,137,141"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1fetchers_1_1Input.html" title=" " alt="" coords="5,5,149,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,44,133,96,129,99,92,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,5,232,33"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="187,47,151,99,146,96,183,44"/>
+</map>

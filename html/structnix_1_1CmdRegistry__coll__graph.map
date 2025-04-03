@@ -1,0 +1,10 @@
+<map id="nix::CmdRegistry" name="nix::CmdRegistry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,139,126"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1MultiCommand.html" title=" " alt="" coords="127,5,276,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,44,92,100,89,95,169,40"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Args.html" title=" " alt="" coords="162,98,240,126"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="204,48,204,98,199,98,199,48"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1Command.html" title=" " alt="" coords="180,175,297,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,160,259,110,259,83,251,58,241,46,228,36,231,31,245,42,256,56,264,83,264,111,253,161"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,138,235,174,230,176,212,141"/>
+</map>

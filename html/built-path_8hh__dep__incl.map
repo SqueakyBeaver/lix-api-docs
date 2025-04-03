@@ -1,0 +1,20 @@
+<map id="lix/libcmd/built&#45;path.hh" name="lix/libcmd/built&#45;path.hh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,292,33"/>
+<area shape="rect" id="Node000002" href="$cmd-profiles_8hh.html" title=" " alt="" coords="5,81,196,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,44,121,83,118,78,173,40"/>
+<area shape="rect" id="Node000003" href="$installables_8hh.html" title=" " alt="" coords="220,81,405,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,40,295,78,292,83,236,44"/>
+<area shape="rect" id="Node000004" href="$installable-derived-path_8hh.html" title=" " alt="" coords="143,157,300,201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,121,248,158,244,154,285,117"/>
+<area shape="rect" id="Node000005" href="$installable-value_8hh.html" title=" " alt="" coords="324,157,482,201"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="340,117,381,154,377,158,337,121"/>
+<area shape="rect" id="Node000006" href="$command_8hh.html" title=" " alt="" coords="316,258,490,286"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="406,217,406,257,400,257,400,217"/>
+<area shape="rect" id="Node000007" href="$installable-attr-path_8hh.html" title=" " alt="" coords="200,342,358,387"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="347,212,325,230,307,251,295,273,288,297,282,342,277,341,283,296,290,271,302,248,321,226,344,208"/>
+<area shape="rect" id="Node000009" href="$installable-flake_8hh.html" title=" " alt="" coords="514,249,671,294"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="463,206,549,247,546,251,461,211"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="375,297,310,344,307,339,372,292"/>
+<area shape="rect" id="Node000008" href="$nix_2daemon_8cc.html" title=" " alt="" coords="382,350,518,378"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="419,298,446,349,441,351,414,300"/>
+</map>

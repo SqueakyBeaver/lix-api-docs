@@ -1,0 +1,7 @@
+<map id="nix::RemoteStore::ConnectionHandle" name="nix::RemoteStore::ConnectionHandle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,115,332,160"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Pool.html" title=" " alt="" coords="5,5,211,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,59,202,112,199,116,141,63"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1Sync.html" title=" " alt="" coords="234,14,446,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,54,249,117,245,113,313,50"/>
+</map>

@@ -1,0 +1,57 @@
+<map id="nix::AbstractConfig" name="nix::AbstractConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,292,150,320"/>
+<area shape="rect" id="Node000002" href="$classnix_1_1Config.html" title=" " alt="" coords="219,265,309,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,291,218,283,219,288,165,296"/>
+<area shape="rect" id="Node000027" href="$structnix_1_1GlobalConfig.html" title=" " alt="" coords="198,317,330,345"/>
+<area shape="poly" id="edge28_Node000001_Node000027" title=" " alt="" coords="165,315,197,320,197,325,165,320"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1ArchiveSettings.html" title=" " alt="" coords="401,5,552,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,250,281,205,302,149,333,92,353,66,376,44,399,30,402,35,380,48,357,70,338,95,307,151,286,206,274,251"/>
+<area shape="rect" id="Node000004" href="$structnix_1_1AuthorizationSettings.html" title=" " alt="" coords="382,57,571,85"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,250,288,214,310,173,340,131,376,96,399,83,401,88,380,100,344,135,315,176,293,217,278,252"/>
+<area shape="rect" id="Node000005" href="$structnix_1_1DevelopSettings.html" title=" " alt="" coords="398,109,555,137"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="279,251,319,198,346,171,377,148,402,135,405,140,379,152,350,175,323,202,284,254"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1EvalSettings.html" title=" " alt="" coords="412,161,542,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="292,253,331,225,377,199,410,187,412,192,379,204,334,230,295,258"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1FeatureSettings.html" title=" " alt="" coords="401,213,552,241"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="323,262,416,239,418,244,324,267"/>
+<area shape="rect" id="Node000008" href="$structnix_1_1FetchSettings.html" title=" " alt="" coords="408,265,545,293"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="324,276,408,276,408,282,324,282"/>
+<area shape="rect" id="Node000009" href="$structnix_1_1FileTransferSettings.html" title=" " alt="" coords="388,317,565,345"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="324,291,418,314,416,319,323,296"/>
+<area shape="rect" id="Node000010" href="$structnix_1_1LoggerSettings.html" title=" " alt="" coords="404,369,550,397"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="323,298,332,304,347,317,356,330,365,342,379,354,406,366,404,371,377,359,361,346,351,333,343,321,328,308,320,303"/>
+<area shape="rect" id="Node000011" href="$classnix_1_1PathsSettingTestConfig.html" title=" " alt="" coords="378,421,575,449"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="324,297,332,304,343,317,350,331,356,357,362,383,369,395,380,406,399,419,396,423,376,411,364,398,357,385,351,359,345,333,339,320,328,308,321,302"/>
+<area shape="rect" id="Node000012" href="$classnix_1_1Settings.html" title=" " alt="" coords="426,473,528,501"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="324,297,332,304,346,324,353,345,355,384,358,422,365,440,380,459,401,473,426,481,424,486,399,477,376,462,361,443,353,423,350,384,348,346,342,327,328,308,321,301"/>
+<area shape="rect" id="Node000013" href="$structnix_1_1StoreConfig.html" title=" " alt="" coords="414,525,539,553"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="324,297,332,304,349,331,357,358,357,385,355,411,353,436,354,461,362,486,380,511,396,523,415,530,413,535,393,527,376,514,357,488,349,462,348,436,350,410,352,385,351,359,344,334,328,308,321,301"/>
+<area shape="rect" id="Node000014" href="$structnix_1_1BinaryCacheStoreConfig.html" title=" " alt="" coords="625,413,831,441"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="552,521,574,510,588,498,597,486,607,473,622,460,666,439,669,444,625,464,611,476,602,489,592,502,577,515,554,525"/>
+<area shape="rect" id="Node000017" href="$structnix_1_1CommonSSHStoreConfig.html" title=" " alt="" coords="623,473,833,501"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="554,521,657,499,658,504,555,526"/>
+<area shape="rect" id="Node000021" href="$structnix_1_1DummyStoreConfig.html" title=" " alt="" coords="640,525,816,553"/>
+<area shape="poly" id="edge20_Node000013_Node000021" title=" " alt="" coords="554,536,640,536,640,542,554,542"/>
+<area shape="rect" id="Node000022" href="$structnix_1_1LocalFSStoreConfig.html" title=" " alt="" coords="641,629,815,657"/>
+<area shape="poly" id="edge21_Node000013_Node000022" title=" " alt="" coords="515,559,566,587,624,614,662,626,660,631,622,619,564,592,513,564"/>
+<area shape="rect" id="Node000026" href="$structnix_1_1RemoteStoreConfig.html" title=" " alt="" coords="640,577,816,605"/>
+<area shape="poly" id="edge25_Node000013_Node000026" title=" " alt="" coords="555,552,658,574,657,579,554,558"/>
+<area shape="rect" id="Node000015" href="$structnix_1_1HttpBinaryCacheStoreConfig.html" title=" " alt="" coords="886,336,1079,380"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="796,406,897,378,898,383,797,411"/>
+<area shape="rect" id="Node000016" href="$structnix_1_1LocalBinaryCacheStoreConfig.html" title=" " alt="" coords="883,405,1082,450"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="847,424,882,424,882,430,847,430"/>
+<area shape="rect" id="Node000018" href="$structnix_1_1LegacySSHStoreConfig.html" title=" " alt="" coords="884,473,1080,501"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="848,484,884,484,884,490,848,490"/>
+<area shape="rect" id="Node000020" href="$structnix_1_1SSHStoreConfig.html" title=" " alt="" coords="907,525,1058,553"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="815,502,911,522,910,527,814,507"/>
+<area shape="rect" id="Node000019" href="$structnix_1_1LegacySSHStoreConfigWithLog.html" title=" " alt="" coords="1132,465,1328,510"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1096,484,1132,484,1132,490,1096,490"/>
+<area shape="rect" id="Node000023" href="$structnix_1_1LocalStoreConfig.html" title=" " alt="" coords="903,629,1062,657"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="830,640,903,640,903,646,830,646"/>
+<area shape="rect" id="Node000024" href="$structnix_1_1RestrictedStoreConfig.html" title=" " alt="" coords="887,681,1078,709"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="815,658,911,678,910,683,814,663"/>
+<area shape="rect" id="Node000025" href="$structnix_1_1UDSRemoteStoreConfig.html" title=" " alt="" coords="881,577,1084,605"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="814,623,910,603,911,608,815,628"/>
+<area shape="poly" id="edge26_Node000026_Node000020" title=" " alt="" coords="814,571,910,551,911,556,815,576"/>
+<area shape="poly" id="edge27_Node000026_Node000025" title=" " alt="" coords="831,588,880,588,880,594,831,594"/>
+</map>

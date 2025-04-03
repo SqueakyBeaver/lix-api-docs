@@ -1,0 +1,35 @@
+var value_8hh =
+[
+    [ "nix::ExternalValueBase", "classnix_1_1ExternalValueBase.html", "classnix_1_1ExternalValueBase" ],
+    [ "nix::NewValueAs", "structnix_1_1NewValueAs.html", "structnix_1_1NewValueAs" ],
+    [ "nix::NewValueAs::integer_t", "structnix_1_1NewValueAs_1_1integer__t.html", null ],
+    [ "nix::NewValueAs::floating_t", "structnix_1_1NewValueAs_1_1floating__t.html", null ],
+    [ "nix::NewValueAs::boolean_t", "structnix_1_1NewValueAs_1_1boolean__t.html", null ],
+    [ "nix::NewValueAs::string_t", "structnix_1_1NewValueAs_1_1string__t.html", null ],
+    [ "nix::NewValueAs::path_t", "structnix_1_1NewValueAs_1_1path__t.html", null ],
+    [ "nix::NewValueAs::list_t", "structnix_1_1NewValueAs_1_1list__t.html", null ],
+    [ "nix::NewValueAs::attrs_t", "structnix_1_1NewValueAs_1_1attrs__t.html", null ],
+    [ "nix::NewValueAs::thunk_t", "structnix_1_1NewValueAs_1_1thunk__t.html", null ],
+    [ "nix::NewValueAs::null_t", "structnix_1_1NewValueAs_1_1null__t.html", null ],
+    [ "nix::NewValueAs::app_t", "structnix_1_1NewValueAs_1_1app__t.html", null ],
+    [ "nix::NewValueAs::primop_t", "structnix_1_1NewValueAs_1_1primop__t.html", null ],
+    [ "nix::NewValueAs::primOpApp_t", "structnix_1_1NewValueAs_1_1primOpApp__t.html", null ],
+    [ "nix::NewValueAs::lambda_t", "structnix_1_1NewValueAs_1_1lambda__t.html", null ],
+    [ "nix::NewValueAs::external_t", "structnix_1_1NewValueAs_1_1external__t.html", null ],
+    [ "nix::NewValueAs::blackhole_t", "structnix_1_1NewValueAs_1_1blackhole__t.html", null ],
+    [ "nix::Value", "structnix_1_1Value.html", "structnix_1_1Value" ],
+    [ "RootValue", "value_8hh.html#af5d08f83edf1065a13ed11ab0339b428", null ],
+    [ "ValueType", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349", [
+      [ "nThunk", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a670bf484353e198e66602d34ac3d2933", null ],
+      [ "nInt", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a07a36ac58278c58b1c19d9bceb402dde", null ],
+      [ "nFloat", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a96de3de7cffeb2d37e991add59d48b79", null ],
+      [ "nBool", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349aaac6bab650100fca60ab4b0927810de0", null ],
+      [ "nString", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a701b6e291d5eafe5e0007c2ffd86b9ba", null ],
+      [ "nPath", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a104447460ce6b1cddad7bd03def69f4d", null ],
+      [ "nNull", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a0ed73f64e1a57bb2af092a73b4c36a8f", null ],
+      [ "nAttrs", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349aa89eabd9bfa6a6095133cf6a371c1faa", null ],
+      [ "nList", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349a5ffc14f8915ae85f38a826a71e97c538", null ],
+      [ "nFunction", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349acbd7d58414480dfec489404f3b83fdb1", null ],
+      [ "nExternal", "value_8hh.html#aa02e43835da3f62e1e4f953deec33349aeef785b4a39c85846efaa17a955ba239", null ]
+    ] ]
+];

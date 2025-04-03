@@ -1,0 +1,7 @@
+<map id="nix::Key" name="nix::Key">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,166,33"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1PublicKey.html" title=" " alt="" coords="5,81,118,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,46,76,82,72,79,105,43"/>
+<area shape="rect" id="Node000003" href="$structnix_1_1SecretKey.html" title=" " alt="" coords="142,81,256,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,43,188,79,185,82,150,46"/>
+</map>

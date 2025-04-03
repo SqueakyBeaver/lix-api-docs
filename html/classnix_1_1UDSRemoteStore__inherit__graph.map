@@ -1,0 +1,22 @@
+<map id="nix::UDSRemoteStore" name="nix::UDSRemoteStore">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,401,230,428"/>
+<area shape="rect" id="Node000002" href="$structnix_1_1IndirectRootStore.html" title=" " alt="" coords="9,325,171,353"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,363,141,399,136,402,108,367"/>
+<area shape="rect" id="Node000003" href="$classnix_1_1LocalFSStore.html" title=" " alt="" coords="5,249,138,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,291,89,324,84,325,76,293"/>
+<area shape="rect" id="Node000004" href="$classnix_1_1Store.html" title=" " alt="" coords="108,98,192,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,128,56,146,39,159,26,175,22,194,28,213,42,231,57,247,53,251,38,235,24,216,16,194,21,172,35,155,53,141,92,123"/>
+<area shape="rect" id="Node000006" href="$structnix_1_1GcStore.html" title=" " alt="" coords="36,174,136,201"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="131,139,100,175,96,171,127,136"/>
+<area shape="rect" id="Node000007" href="$structnix_1_1LogStore.html" title=" " alt="" coords="161,174,267,201"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="174,136,205,171,201,175,170,139"/>
+<area shape="rect" id="Node000008" href="$classnix_1_1RemoteStore.html" title=" " alt="" coords="162,249,296,277"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="208,122,249,141,267,155,282,172,287,194,279,216,264,235,248,251,244,247,260,232,274,213,281,194,277,175,263,159,246,145,206,127"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="73,5,227,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="153,66,153,97,148,97,148,66"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="83,217,77,249,71,248,78,216"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="126,206,205,247,202,251,124,211"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="176,211,98,251,96,247,174,206"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="222,216,229,248,224,249,217,217"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="218,292,186,354,159,402,154,399,181,351,213,290"/>
+</map>
